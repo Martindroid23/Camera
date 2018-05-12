@@ -9,8 +9,4 @@
         <intent android:targetPackage="com.martindroidapps.camera" android:action="android.media.action.VIDEO_CAMERA" android:targetClass="com.martindroidapps.camera.CameraActivity" />
         <categories android:name="android.shortcut.camera" />
     </shortcut>
-    <shortcut android:icon="@drawable/ic_shortcut_gallery" android:enabled="false">
-        <intent android:targetPackage="com.martindroidapps.camera" android:action="footej.media.VIEW" android:targetClass="com.martindroidapps.camera.CameraActivity" />
-        <categories android:name="android.shortcut.camera" />
-    </shortcut>
-</shortcuts>
+</shortcuts>    

@@ -274,10 +274,8 @@ Mutasd meg mennyire!"</string>
     <string name="shortcut_disabled_gallery">Gallery</string>
     <string name="shortcut_disabled_selfie">Selfie</string>
     <string name="shortcut_disabled_video">Videó Camera</string>
-    <string name="shortcut_long_label_gallery">Galéria mutatása</string>
     <string name="shortcut_long_label_selfie">Szelfi készítése</string>
     <string name="shortcut_long_label_video">Videó készítése</string>
-    <string name="shortcut_short_label_gallery">Gallery</string>
     <string name="shortcut_short_label_selfie">Selfie</string>
     <string name="shortcut_short_label_video">Video</string>
     <string name="shutter">Zár</string>
