@@ -1,5 +1,5 @@
 !!brut.androlib.meta.MetaInfo
-apkFileName: Camera2_2.2.5 build 164.apk
+apkFileName: Camera_2.3.1 build 2.apk
 compressionType: false
 doNotCompress:
 - arsc
@@ -27,4 +27,4 @@ usesFramework:
 version: 2.3.1
 versionInfo:
   versionCode: '20167'
-  versionName: 2.2.6 build 167
+  versionName: 2.3.1 build 2
