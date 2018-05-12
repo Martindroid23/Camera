@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_search_hint">Поиск</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="action_crop_image">Кадрировать 1:1</string>
+    <string name="action_edit_intent_error">Нет доступных приложений для редактирования этого средства массовой информации</string>
+    <string name="action_gallery_burst_extract">Экспортировать</string>
+    <string name="action_gallery_create">Create Story</string>
+    <string name="action_gallery_create_gif">Создать GIF анимацию</string>
+    <string name="action_gallery_delete">Удалить</string>
+    <string name="action_gallery_edit">Редактировать</string>
+    <string name="action_gallery_info">Информация</string>
+    <string name="action_gallery_share">Поделиться</string>
+    <string name="action_initial_scan">Сканировать библиотеку</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_slider_show_gallery">Галерея</string>
+    <string name="app_name">Footej Camera</string>
+    <string name="backCameraNotFound">Основная камера не найдена</string>
+    <string name="back_camera">Основная камера</string>
+    <string name="burst_count_photos">%d снимков</string>
+    <string name="burst_group_photos">Серия снимков</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="compensation_option">Экспокоррекция</string>
+    <string name="compose_panorama">Панорама обработки</string>
+    <string name="countdown_option_caption">Таймер</string>
+    <string name="criticalError">Произошла критическая ошибка! Приносим свои извинения за неудобства. Пожалуйста, пришлите отчет о проблее для её изучения.</string>
+    <string name="criticalErrorRestart">Проблема с обслуживанием камеры, если проблема не устранена, попробуйте перезагрузить устройство.</string>
+    <string name="date_today">Сегодня</string>
+    <string name="date_yesterday">Вчера</string>
+    <string name="device_storage">Устройство</string>
+    <string name="donations">Продолжайте поддерживать нас</string>
+    <string name="enable_gps">Желаете включить GPS?</string>
+    <string name="error_delete_file">Невозможно удалить файл %s</string>
+    <string name="error_loading_thumb">Невозможно загрузить информацию о файле</string>
+    <string name="error_loading_thumb_image">Невозможно загрузить эскиз файла</string>
+    <string name="exposure_rs_pnl">экспозиция</string>
+    <string name="filechoose_cancel">Отмена</string>
+    <string name="filechoose_reset">По умолчанию</string>
+    <string name="filechoose_select">Выбрать</string>
+    <string name="filechooser_title">Укажите хранилище %s</string>
+    <string name="fingerprint_cat_app_background">Фон приложения</string>
+    <string name="fingerprint_cat_app_foreground">Приложение переднего плана</string>
+    <string name="fingerprint_service_description">"Когда он включен, может назначить отпечатков пальцев жесты (пальцем вверх/вниз/влево/вправо) для стандартных действий в приложении, для того, чтобы легко выполнять основные операции. Когда приложение находится в фоновом режиме, что доступные действия являются: 
+ • открытые фото camera
+ • Открытое видео camera
+ • открытый фронт фото camera
+ • Open Gallery
+When приложение находится на переднем плане доступные действия являются: 
+ • затвора button
+ • шоу filmstrip
+ • изменения фото/видео mode
+ • изменения задней/передней camera
+ • навигации в Диафильм"</string>
+    <string name="fingerprint_service_summary">Жесты с отпечатком пальца</string>
+    <string name="focus_rs_pnl">расстояние</string>
+    <string name="frontCameraNotFound">Фронтальная камера не найдена</string>
+    <string name="front_camera">Фронтальная камера</string>
+    <string name="gallery">Галерея</string>
+    <string name="gallery_confirm_delete_image_msg">Вы действительно хотите удалить этот элемент?</string>
+    <string name="gallery_confirm_delete_msg">Вы действительно хотите удалить элементы (%d шт.)?</string>
+    <string name="gallery_confirm_export_image_msg">Вы действительно хотите экспортировать это изображение?</string>
+    <string name="gallery_confirm_negative_btn">Отмена</string>
+    <string name="gallery_confirm_positive_btn">OK</string>
+    <string name="gallery_confirm_title">Подтвердить</string>
+    <string name="gallery_crop_message">Кадрирование изображения</string>
+    <string name="gallery_delete_msg">Удалено %d элементов</string>
+    <string name="gallery_extract_error">Ошибка экспорта %s</string>
+    <string name="gallery_extract_msg">Изображение %s экспортировано</string>
+    <string name="gallery_gif_limit_msg">Пожалуйста, выберите по крайней мере 2 фотографии</string>
+    <string name="gallery_gif_message">Создание GIF анимации</string>
+    <string name="gallery_share_msg">Поделиться с...</string>
+    <string name="gallery_slider_delete_msg">%s удалён</string>
+    <string name="gallery_slider_deleted_msg">Удалено</string>
+    <string name="gallery_undo_delete">Отмена</string>
+    <string name="location_manager">Местоположение</string>
+    <string name="manual_focus_option">Ручная фокусировка</string>
+    <string name="manualfocuszoom_toast">Приближение при фокусировке включено</string>
+    <string name="media_info_duration">Продолжительность: %s</string>
+    <string name="media_info_image_title">Информация о фото</string>
+    <string name="media_info_video_title">Информация о видео</string>
+    <string name="miscellaneous">Дополнительно</string>
+    <string name="msg_permissions_sd">Разрешение не получено. Пожалуйста, попытайтесь снова</string>
+    <string name="msg_sd_instructions">Пожалуйста, выберите корневую директорию внешнего накопителя для получения права записи</string>
+    <string name="no">Нет</string>
+    <string name="no_media_found">Галерея пуста</string>
+    <string name="notification_channel_description">Уведомления о службы обработки изображений</string>
+    <string name="notification_channel_name">Footej обработки службы уведомления</string>
+    <string name="permission_dialog_message">"Для нормальной работы приложению требуются указанные разрешения.
+Пожалуйста, перезапустите приложение и разрешите запрашиваемый доступ или сделайте это через настройки устройства.
+
+%s"</string>
+    <string name="permission_dialog_title">Требуются разрешения</string>
+    <string name="photography_camera">Фотокамера</string>
+    <string name="pref_description_brightness">Установить максимальную яркость в видеоискателе</string>
+    <string name="pref_description_default_gallery">Использовать системное приложение галереи вместо встроенной</string>
+    <string name="pref_description_geolocation">Сохранять место съемки фото и видео</string>
+    <string name="pref_description_gesture_enable">Включение службы доступности</string>
+    <string name="pref_description_gesture_filmstrip_enable">Включение навигации в Диафильм</string>
+    <string name="pref_description_manualfocuszoom">Приближение в видеоискателе для лучшего фокусирования</string>
+    <string name="pref_description_shuttersounds">Включить или отключить звук затвора</string>
+    <string name="pref_description_stabilization">Включить стабилизацию, если поддерживается</string>
+    <string name="pref_header_about">О продукте</string>
+    <string name="pref_header_general">Основные</string>
+    <string name="pref_header_photo">Фото</string>
+    <string name="pref_header_video">Видео</string>
+    <string name="pref_licences">Лицензии ПО с открытым исходным кодом</string>
+    <string name="pref_purchase_donate_1">Стать последователем</string>
+    <string name="pref_purchase_donate_2">Сторонник разработчика</string>
+    <string name="pref_purchase_donate_3">Footej энтузиаст</string>
+    <string name="pref_purchase_donate_title">Покупка &amp; пожертвования</string>
+    <string name="pref_summary_purchases">нет</string>
+    <string name="pref_summary_support">Отправить пожелание, получить консультацию или сообщить о проблеме</string>
+    <string name="pref_title_antibanding">Снижение мерцания</string>
+    <string name="pref_title_audiosrc">Источник звука</string>
+    <string name="pref_title_brightness">Яркость дисплея</string>
+    <string name="pref_title_burst">Серийная съемка</string>
+    <string name="pref_title_burstmodeinterval">Интервал</string>
+    <string name="pref_title_burstmodemaximages">Ограничение серии</string>
+    <string name="pref_title_default_gallery">Использовать стандартную галерею</string>
+    <string name="pref_title_fingerprint_swipe_down">Свайп вниз</string>
+    <string name="pref_title_fingerprint_swipe_left">Свайп влево</string>
+    <string name="pref_title_fingerprint_swipe_right">Свайп вправо</string>
+    <string name="pref_title_fingerprint_swipe_up">Свайп вверх</string>
+    <string name="pref_title_flip_photos_front_camera">Отражать фото с фронтальной камеры</string>
+    <string name="pref_title_focus_priority">Фотографировать после фокусировки</string>
+    <string name="pref_title_geolocation">Местоположение</string>
+    <string name="pref_title_gestures_enable">Включить</string>
+    <string name="pref_title_gestures_filmstrip_enable">Диафильм навигации</string>
+    <string name="pref_title_gif_quality">Качество GIF анимаций</string>
+    <string name="pref_title_infocommunity">Сообщество Google+</string>
+    <string name="pref_title_infofbpage">Страница в Facebook</string>
+    <string name="pref_title_jpegquality">Качество JPEG</string>
+    <string name="pref_title_legalinfo">Юридическая информация</string>
+    <string name="pref_title_manualfocuszoom">Приближение при ручной фокусировке</string>
+    <string name="pref_title_maxduration">Максимальная длительность</string>
+    <string name="pref_title_photo_file_prefix">Префикс имени файла</string>
+    <string name="pref_title_photoratio">Соотношение</string>
+    <string name="pref_title_photosize">Разрешение</string>
+    <string name="pref_title_photosize_back">Основная камера</string>
+    <string name="pref_title_photosize_front">Фронтальная камера</string>
+    <string name="pref_title_privacy">Политика конфиденциальности</string>
+    <string name="pref_title_purchases">Покупки</string>
+    <string name="pref_title_rendervideosizes">Разрешение записи</string>
+    <string name="pref_title_show_histogram">Показывать гистограмму</string>
+    <string name="pref_title_shuttersounds">Звук затвора</string>
+    <string name="pref_title_stabilization">Стабилизация</string>
+    <string name="pref_title_storage_photo">Хранилище фото</string>
+    <string name="pref_title_storage_video">Хранилище видео</string>
+    <string name="pref_title_support">Пожелания &amp; поддержка</string>
+    <string name="pref_title_use_high_speed">При необходимости используйте высокоскоростной сеанс</string>
+    <string name="pref_title_use_high_speed_desc">Когда замедленное движение включено, используется высокоскоростной сеанс, чтобы получить максимальное значение fps. Высокоскоростной сеанс отменяет выбранный размер записи и отключает ручное управление.</string>
+    <string name="pref_title_video_file_prefix">Префикс имени файла</string>
+    <string name="pref_title_video_quality">Качество видео</string>
+    <string name="pref_title_videosize_back">Основная камера</string>
+    <string name="pref_title_videosize_front">Фронтальная камера</string>
+    <string name="pref_title_volumekey">Клавиша регулировки громкости</string>
+    <string name="pref_title_website">Веб-сайт</string>
+    <string name="processing_image_error">Ошибка обработки изображения</string>
+    <string name="purchase_btn">Купить</string>
+    <string name="purchase_donate_btn">Покупка &amp; пожертвования</string>
+    <string name="purchase_error_msg">"Произошла ошибка во время покупки.
+Пожалуйста, попробуйте позже"</string>
+    <string name="purchase_sku_description">Приобрести пакет Premium что бы получить</string>
+    <string name="purchase_sku_description_purchased">Вы уже приобрели пакет Premium</string>
+    <string name="purchase_sku_details">"
+ • Интервал серийной съемки менее 500 миллисекунд
+ • Более 20 снимков в серии
+ • Лучшее качество JPEG
+ • Снижение мерцания 50Гц и 60Гц
+ • Длительность записи видео более 5 минут
+ • Гистограмма изображения
+ • GIF анимации высокого разрешения"</string>
+    <string name="purchase_success_msg">Спасибо за покупку!</string>
+    <string name="purchase_warning_message">"Использование этой опции требует покупки пакета Footej Camera Premium.
+
+"</string>
+    <string name="purchases">Покупки</string>
+    <string name="rate_later">Позже</string>
+    <string name="rate_message">"Нравится Footej Camera?
+Оставьте свое мнение!"</string>
+    <string name="rate_no">Нет, спасибо</string>
+    <string name="rate_ok">Оценить</string>
+    <string name="rate_title">Оцените Footej на Play Маркет!</string>
+    <string name="rendering_hdr">Рендеринг HDR изображения</string>
+    <string name="report">Отчет</string>
+    <string name="resolution">Разрешение</string>
+    <string name="restart">Перезапуск</string>
+    <string name="sGeneralRecordingError">Произошла неустранимая ошибка! Пожалуйста, перезапустите приложение</string>
+    <string name="sOutOfMemoryRecordingError">Недостаточно памяти! Пожалуйста, перезапустите приложение</string>
+    <string name="sPauseRecordingError">Невозможно приостановить запись!</string>
+    <string name="sPrepareRecordingError">Невозможно подготовить файл записи!</string>
+    <string name="sResumeRecordingError">Невозможно продолжить запись!</string>
+    <string name="sSDCardWriteError">Невозможно начать запись, вероятно карта памяти недоступна для записи</string>
+    <string name="sStartRecordingError">Невозможно начать запись!</string>
+    <string name="sStopRecordingError">Невозможно остановить запись!</string>
+    <string name="saved_dng_path">Путь сохраненного DNG:</string>
+    <string name="sdcard_storage">Карта памяти</string>
+    <string name="search_menu_title">Поиск</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="settings">Настройки</string>
+    <string name="shortcut_disabled_gallery">Галерея</string>
+    <string name="shortcut_disabled_selfie">Селф</string>
+    <string name="shortcut_disabled_video">Видеокамера</string>
+    <string name="shortcut_long_label_gallery">Показать галерею</string>
+    <string name="shortcut_long_label_selfie">Сделать селфи</string>
+    <string name="shortcut_long_label_video">Возьмите видео</string>
+    <string name="shortcut_short_label_gallery">Галерея</string>
+    <string name="shortcut_short_label_selfie">Селф</string>
+    <string name="shortcut_short_label_video">Видео</string>
+    <string name="shutter_speed_option">Скорость затвора</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="support_intent_msg">Отправить письмо…</string>
+    <string name="support_title">Я бы хотел..</string>
+    <string name="title_activity_purchase">Покупки</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="title_sd_instructions">Доступ к записи на внешний накопитель</string>
+    <string name="video_camera">Видеокамера</string>
+    <string name="yes">Да</string>
+</resources>

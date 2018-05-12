@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:layout="@layout/preference_category_first_layout" android:title="@string/resolution" android:key="cat_resolution">
+        <com.martindroidapps.camera.Preferences.VideoSizePreference android:icon="@drawable/ic_video_camera_back_grey600_24dp" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_videosize_back" android:key="videosize_back" />
+        <com.martindroidapps.camera.Preferences.VideoSizePreference android:icon="@drawable/ic_video_camera_front_grey600_24dp" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_videosize_front" android:key="videosize_front" />
+    </PreferenceCategory>
+    <PreferenceCategory android:layout="@layout/preference_category_first_layout" android:title="@string/pref_title_video_quality" android:key="cat_quality">
+        <ListPreference android:icon="@drawable/video_res" android:entries="@array/pref_videoquality_titles" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_videosize_back" android:key="back_video_quality" android:defaultValue="2" android:entryValues="@array/pref_videoquality_values" />
+        <ListPreference android:icon="@drawable/video_res" android:entries="@array/pref_videoquality_titles" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_videosize_front" android:key="front_video_quality" android:defaultValue="2" android:entryValues="@array/pref_videoquality_values" />
+    </PreferenceCategory>
+    <PreferenceCategory android:layout="@layout/preference_category_first_layout" android:title="@string/miscellaneous" android:key="cat_miscellaneous">
+        <ListPreference android:icon="@drawable/microphone" android:entries="@array/pref_audiosrc_titles" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_audiosrc" android:key="video_audiosrc" android:defaultValue="1" android:entryValues="@array/pref_audiosrc_values" />
+        <ListPreference android:icon="@drawable/timer" android:entries="@array/pref_maxduration_titles" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_maxduration" android:key="video_max_duration" android:defaultValue="5" android:entryValues="@array/pref_maxduration_values" />
+        <SwitchPreference android:title="@string/pref_title_use_high_speed" android:key="high_speed_session_in_slow_motion" android:summary="@string/pref_title_use_high_speed_desc" android:defaultValue="true" />
+        <Preference android:icon="@drawable/folder" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_storage_video" android:key="video_storage_dir" />
+        <EditTextPreference android:icon="@drawable/filename_prefix" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_video_file_prefix" android:key="video_file_prefix" />
+    </PreferenceCategory>
+</PreferenceScreen>

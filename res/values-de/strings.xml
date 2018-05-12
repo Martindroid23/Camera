@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Zur Startseite</string>
+    <string name="abc_action_bar_up_description">Nach oben</string>
+    <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
+    <string name="abc_action_mode_done">Fertig</string>
+    <string name="abc_activity_chooser_view_see_all">Alle ansehen</string>
+    <string name="abc_activitychooserview_choose_application">App auswählen</string>
+    <string name="abc_capital_off">Aus</string>
+    <string name="abc_capital_on">An</string>
+    <string name="abc_search_hint">Suchen…</string>
+    <string name="abc_searchview_description_clear">Suchanfrage löschen</string>
+    <string name="abc_searchview_description_query">Suchanfrage</string>
+    <string name="abc_searchview_description_search">Suchen</string>
+    <string name="abc_searchview_description_submit">Suchanfrage senden</string>
+    <string name="abc_searchview_description_voice">Sprachsuche</string>
+    <string name="abc_shareactionprovider_share_with">Freigeben für</string>
+    <string name="abc_shareactionprovider_share_with_application">Mit %s teilen</string>
+    <string name="abc_toolbar_collapse_description">Minimieren</string>
+    <string name="action_crop_image">Zuschneiden 1:1</string>
+    <string name="action_edit_intent_error">Es ist nicht verfügbare Anwendung dieser Medien bearbeiten</string>
+    <string name="action_gallery_burst_extract">Extrahieren</string>
+    <string name="action_gallery_create">Geschichte erstellen</string>
+    <string name="action_gallery_create_gif">Animiertes GIF erstellen</string>
+    <string name="action_gallery_delete">Löschen</string>
+    <string name="action_gallery_edit">Bearbeiten</string>
+    <string name="action_gallery_info">Information</string>
+    <string name="action_gallery_share">Teilen</string>
+    <string name="action_initial_scan">Bibliothek erneut scannen</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_slider_show_gallery">Gallerie</string>
+    <string name="app_name">Footej Camera</string>
+    <string name="backCameraNotFound">Keine Rückkamera gefunden</string>
+    <string name="back_camera">Rückkamera</string>
+    <string name="burst_count_photos">%d Fotos</string>
+    <string name="burst_group_photos">Burst Team</string>
+    <string name="common_google_play_services_unknown_issue">%1$s hat Probleme mit Google Play-Diensten. Bitte versuche es noch einmal.</string>
+    <string name="compensation_option">Kompensation</string>
+    <string name="compose_panorama">Verarbeitung von Panorama</string>
+    <string name="countdown_option_caption">Countdown</string>
+    <string name="criticalError">Schwerwiegender Fehler! Wir bedauern die Unannehmlichkeiten. Bitte sende uns eine Beschreibung des Fehlers, damit wir der Sache auf den Grund gehen können.</string>
+    <string name="criticalErrorRestart">Gibt es ein Problem mit Kamera-Dienst, wenn Datei-und versuchen Sie Ihr Gerät neu starten.</string>
+    <string name="date_today">Heute</string>
+    <string name="date_yesterday">Gestern</string>
+    <string name="device_storage">Gerät</string>
+    <string name="donations">Unterstütze uns weiter</string>
+    <string name="enable_gps">Möchten Sie GPS aktivieren?</string>
+    <string name="error_delete_file">Datei %s kann nicht gelöscht werden.</string>
+    <string name="error_loading_thumb">Medien-Information für diese Datei kann nicht geladen werden.</string>
+    <string name="error_loading_thumb_image">Miniaturansicht für diese Datei kann nicht geladen werden.</string>
+    <string name="exposure_rs_pnl">Galerie</string>
+    <string name="filechoose_cancel">Abbrechen</string>
+    <string name="filechoose_reset">Reset</string>
+    <string name="filechoose_select">Auswählen</string>
+    <string name="filechooser_title">%s-Speicherverzeichnis wählen</string>
+    <string name="fingerprint_cat_app_background">App-Vordergrund</string>
+    <string name="fingerprint_cat_app_foreground">App-Vordergrund</string>
+    <string name="fingerprint_service_description">"Wenn es aktiviert ist, können Sie vordefinierte Aktionen in der app Fingerabdruck Gesten (streichen Sie nach oben/unten/links/rechts) zuweisen, um leicht grundlegende Operationen durchführen. Wenn die app im Hintergrund ist, dass die verfügbaren Aktionen sind: 
+ • Open Foto Camera
+ • Open Video Camera
+ • offene Front Foto Camera
+ • Open Gallery
+When der app im Vordergrund ist die verfügbaren Aktionen sind: 
+ • Shutter Button
+ • zeigen Filmstrip
+ • Änderung Foto/Video Mode
+ • Änderung hinten/vorne Camera
+ • Navigation im Filmstreifen"</string>
+    <string name="fingerprint_service_summary">Fingerabdruck-Gesten</string>
+    <string name="focus_rs_pnl">Abstand</string>
+    <string name="frontCameraNotFound">Keine Frontkamera gefunden</string>
+    <string name="front_camera">Frontkamera</string>
+    <string name="gallery">Gallerie</string>
+    <string name="gallery_confirm_delete_image_msg">Sind Sie sicher, dass Sie dieses Objekt löschen wollen?</string>
+    <string name="gallery_confirm_delete_msg">Sind Sie sicher, dass Sie das/die Objekt/e %d löschen wollen?</string>
+    <string name="gallery_confirm_export_image_msg">Sind Sie sicher, dass Sie dieses Bild exportieren wollen?</string>
+    <string name="gallery_confirm_negative_btn">Abbrechen</string>
+    <string name="gallery_confirm_positive_btn">OK</string>
+    <string name="gallery_confirm_title">Bestätigen</string>
+    <string name="gallery_crop_message">Bild zuschneiden</string>
+    <string name="gallery_delete_msg">Gelöschte %d Element(e)</string>
+    <string name="gallery_extract_error">Fehler während Extraktion des Burst-Bilds %s</string>
+    <string name="gallery_extract_msg">Burst-Bild %s extrahiert</string>
+    <string name="gallery_gif_limit_msg">Bitte wählen Sie mindestens 2 Fotos</string>
+    <string name="gallery_gif_message">Animiertes GIF erstellen</string>
+    <string name="gallery_share_msg">Medien teilen mit...</string>
+    <string name="gallery_slider_delete_msg">Gelöschte %s</string>
+    <string name="gallery_slider_deleted_msg">Gelöscht</string>
+    <string name="gallery_undo_delete">RÜCKGÄNGIG</string>
+    <string name="location_manager">Standort Manager</string>
+    <string name="manual_focus_option">Manueller Fokus</string>
+    <string name="manualfocuszoom_toast">Manueller Fokus aktiviert</string>
+    <string name="media_info_duration">Dauer : %s</string>
+    <string name="media_info_image_title">Bild-Informationen</string>
+    <string name="media_info_video_title">Video-Informationen</string>
+    <string name="miscellaneous">Sonstiges</string>
+    <string name="msg_permissions_sd">Berechtigungen nicht erteilt. Bitte versuchen Sie es erneut</string>
+    <string name="msg_sd_instructions">Bitte waehlen Sie das Hauptverzeichnis der externen SD-Karte um Schreibzugriff auf die Anwendung zu geben</string>
+    <string name="no">Nein</string>
+    <string name="no_media_found">Galerie ist leer</string>
+    <string name="notification_channel_description">Benachrichtigungen über Bildverarbeitung Dienst</string>
+    <string name="notification_channel_name">Footej Verarbeitung Servicemeldungen</string>
+    <string name="permission_dialog_message">"App benötigt die folgenden Berechtigungen um normal funktionieren. 
+Bitte App neu starten und Berechtigungen erteilen, wenn die Aufforderung angezeigt wird. Alternativ können die Berechtigungen in den Geräte-Einstellungen freigeschalten werden.
+
+%s"</string>
+    <string name="permission_dialog_title">Erforderliche Berechtigungen</string>
+    <string name="photography_camera">Foto</string>
+    <string name="pref_description_brightness">Maximale Helligkeit in der Vorschau erzwingen</string>
+    <string name="pref_description_default_gallery">Verwenden der System-Galerie-App statt der internen</string>
+    <string name="pref_description_geolocation">Speichern des Standorts für Video und Foto</string>
+    <string name="pref_description_gesture_enable">Barrierefreiheit-Dienst aktivieren</string>
+    <string name="pref_description_gesture_filmstrip_enable">Navigation im Filmstreifen zu ermöglichen</string>
+    <string name="pref_description_manualfocuszoom">Vergrößerte Vorschau der Nahaufnahme des Motivs</string>
+    <string name="pref_description_shuttersounds">Auslöse-Ton aktivieren/deaktiveren</string>
+    <string name="pref_description_stabilization">Stabilisierung aktivieren (falls unterstützt)</string>
+    <string name="pref_header_about">Über</string>
+    <string name="pref_header_general">Allgemein</string>
+    <string name="pref_header_photo">Foto</string>
+    <string name="pref_header_video">Video</string>
+    <string name="pref_licences">Open-Source-Lizenzen</string>
+    <string name="pref_purchase_donate_1">Werde ein Anhänger</string>
+    <string name="pref_purchase_donate_2">Entwickler-Unterstützung</string>
+    <string name="pref_purchase_donate_3">Footej Enthusiast</string>
+    <string name="pref_purchase_donate_title">Kauf &amp; amp; Spenden</string>
+    <string name="pref_summary_purchases">Keine</string>
+    <string name="pref_summary_support">Feedback senden, Support erhalten oder ein Problem melden</string>
+    <string name="pref_title_antibanding">Antibanding</string>
+    <string name="pref_title_audiosrc">Audioquelle</string>
+    <string name="pref_title_brightness">Maximale Helligkeit erzwingen</string>
+    <string name="pref_title_burst">Burst-Modus</string>
+    <string name="pref_title_burstmodeinterval">Minimales Intervall</string>
+    <string name="pref_title_burstmodemaximages">Maximale Anzahl der Aufnahmen</string>
+    <string name="pref_title_default_gallery">Verwenden der Standard-Galerie-App</string>
+    <string name="pref_title_fingerprint_swipe_down">Nach unten streichen</string>
+    <string name="pref_title_fingerprint_swipe_left">Nach links wischen</string>
+    <string name="pref_title_fingerprint_swipe_right">Nach rechts streichen</string>
+    <string name="pref_title_fingerprint_swipe_up">Nach oben streichen</string>
+    <string name="pref_title_flip_photos_front_camera">Aufnahmen der Frontkamera spiegeln</string>
+    <string name="pref_title_focus_priority">Vor Bildaufnahme das Motiv fokusieren</string>
+    <string name="pref_title_geolocation">Standort speichern</string>
+    <string name="pref_title_gestures_enable">Aktivieren</string>
+    <string name="pref_title_gestures_filmstrip_enable">Filmstreifen-navigation</string>
+    <string name="pref_title_gif_quality">Qualität des animierten GIFs</string>
+    <string name="pref_title_infocommunity">Google+ Community</string>
+    <string name="pref_title_infofbpage">Facebook-Seite</string>
+    <string name="pref_title_jpegquality">JPEG-Qualität</string>
+    <string name="pref_title_legalinfo">Rechtliche Hinweise</string>
+    <string name="pref_title_manualfocuszoom">Manueller Fokus-Zoom</string>
+    <string name="pref_title_maxduration">Max. Dauer</string>
+    <string name="pref_title_photo_file_prefix">Dateinamen-Präfix</string>
+    <string name="pref_title_photoratio">Verhältnis</string>
+    <string name="pref_title_photosize">Größe</string>
+    <string name="pref_title_photosize_back">Rückkamera</string>
+    <string name="pref_title_photosize_front">Frontkamera</string>
+    <string name="pref_title_privacy">Datenschutzerklärung</string>
+    <string name="pref_title_purchases">Käufe</string>
+    <string name="pref_title_rendervideosizes">Videogröße rendern</string>
+    <string name="pref_title_show_histogram">Zeige Histogramm</string>
+    <string name="pref_title_shuttersounds">Auslöser-Ton</string>
+    <string name="pref_title_stabilization">Stabilisierung</string>
+    <string name="pref_title_storage_photo">Speicherort</string>
+    <string name="pref_title_storage_video">Speicherort</string>
+    <string name="pref_title_support">Feedback &amp; Support</string>
+    <string name="pref_title_use_high_speed">Verwenden Sie high-Speed-Sitzung bei Bedarf</string>
+    <string name="pref_title_use_high_speed_desc">Bei aktivierter Zeitlupe ist eine high-Speed-Sitzung verwendet, um maximale fps bekommen. High-Speed-Sitzung überschreibt ausgewählte Aufnahme Größe und manuelle Kontrollen deaktiviert.</string>
+    <string name="pref_title_video_file_prefix">Dateinamen-Präfix</string>
+    <string name="pref_title_video_quality">Video-Qualität</string>
+    <string name="pref_title_videosize_back">Rückkamera</string>
+    <string name="pref_title_videosize_front">Frontkamera</string>
+    <string name="pref_title_volumekey">Lautstärketasten</string>
+    <string name="pref_title_website">Webseite</string>
+    <string name="processing_image_error">Fehler bei der Bildbearbeitung</string>
+    <string name="purchase_btn">Kaufen</string>
+    <string name="purchase_donate_btn">Kauf &amp; amp; Spenden</string>
+    <string name="purchase_error_msg">"Es gab ein Problem beim Kauf. 
+Bitte später noch einmal versuchen"</string>
+    <string name="purchase_sku_description">Jetzt Premium-Paket kaufen, um folgende Funktionen freizuschalten</string>
+    <string name="purchase_sku_description_purchased">Premium-Paket bereits gekauft</string>
+    <string name="purchase_sku_details">"
+ • Burst-Intervall unter 500ms
+ • Mehr als 20 Aufnahmen pro Burst
+ • Bessere JPEG-Qualität
+ • Antibanding auf 50Hz und 60Hz
+ • Videoaufnahmen von mehr als 5 min
+ • Bild-Histogramme
+ • Animierte GIFs mit hoher Qualität"</string>
+    <string name="purchase_success_msg">Danke für den Kauf!</string>
+    <string name="purchase_warning_message">"Footej Kamera Premium Paket benötigt, um dieses Feature zu verwenden.
+
+"</string>
+    <string name="purchases">Käufe</string>
+    <string name="rate_later">Später</string>
+    <string name="rate_message">"Gefällt euch die Footej Camera?
+Deine Meinung zählt!"</string>
+    <string name="rate_no">Nein, danke</string>
+    <string name="rate_ok">Bewerten</string>
+    <string name="rate_title">Bewerte Footej im Play Store!</string>
+    <string name="rendering_hdr">HDR-Bild rendern</string>
+    <string name="report">Bericht</string>
+    <string name="resolution">Auflösung</string>
+    <string name="restart">Neu starten</string>
+    <string name="sGeneralRecordingError">Es ist ein nicht behebbarer Fehler aufgetreten! Bitte starten Sie die app</string>
+    <string name="sOutOfMemoryRecordingError">Das Gerät zuwenig Arbeitsspeicher ausführen! Bitte starten Sie die app</string>
+    <string name="sPauseRecordingError">Pausieren der Aufnahme fehlgeschlagen!</string>
+    <string name="sPrepareRecordingError">Vorbereitung der Aufnahme nicht möglich!</string>
+    <string name="sResumeRecordingError">Fortsetzen der Aufnahme fehlgeschlagen!</string>
+    <string name="sSDCardWriteError">Start der Aufnahme fehlgeschlagen, evtl. keine Verbindung zur SD-Karte möglich</string>
+    <string name="sStartRecordingError">Start der Aufnahme nicht möglich!</string>
+    <string name="sStopRecordingError">Unterbrechung der Aufnahme fehlgeschlagen!</string>
+    <string name="saved_dng_path">Gespeicherter DNG-Pfad:</string>
+    <string name="sdcard_storage">SD-Karte</string>
+    <string name="search_menu_title">Suchen</string>
+    <string name="section_format">Hallo World vom section: %1$d</string>
+    <string name="settings">Einstellungen</string>
+    <string name="shortcut_disabled_gallery">Galerie</string>
+    <string name="shortcut_disabled_selfie">Selfie</string>
+    <string name="shortcut_disabled_video">Video</string>
+    <string name="shortcut_long_label_gallery">Zeige Galerie</string>
+    <string name="shortcut_long_label_selfie">Mache ein Selfie</string>
+    <string name="shortcut_long_label_video">Video aufnehmen</string>
+    <string name="shortcut_short_label_gallery">Galerie</string>
+    <string name="shortcut_short_label_selfie">Selfie</string>
+    <string name="shortcut_short_label_video">Video</string>
+    <string name="shutter_speed_option">Bildrate</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="support_intent_msg">Email senden…</string>
+    <string name="support_title">Ich möchte...</string>
+    <string name="title_activity_purchase">Käufe</string>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="title_sd_instructions">Schreibzugriff auf externe SD</string>
+    <string name="video_camera">Video</string>
+    <string name="yes">Ja</string>
+</resources>

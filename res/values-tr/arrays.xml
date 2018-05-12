@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_antibanding_titles">
+        <item>Otomatik</item>
+        <item>50Hz (Avrupa)</item>
+        <item>60Hz (ABD)</item>
+        <item>Kapalý</item>
+    </string-array>
+    <string-array name="pref_array_support">
+        <item>Geri bildirim gönder</item>
+        <item>Destek al</item>
+        <item>Sorun rapor et</item>
+    </string-array>
+    <string-array name="pref_audiosrc_titles">
+        <item>Varsayılan ses kaynağı</item>
+        <item>Mikrofon ses kaynağı</item>
+        <item>Mikrofon ses kaynağı video kaydı için ayarlanmış</item>
+    </string-array>
+    <string-array name="pref_burstmodeinterval_titles">
+        <item>100 milisaniye</item>
+        <item>200 milisaniye</item>
+        <item>300 milisaniye</item>
+        <item>400 milisaniye</item>
+        <item>500 milisaniye</item>
+        <item>600 milisaniye</item>
+        <item>700 milisaniye</item>
+        <item>800 milisaniye</item>
+        <item>900 milisaniye</item>
+        <item>1000 milisaniye</item>
+        <item>2000 milisaniye</item>
+        <item>3000 milisaniye</item>
+        <item>4000 milisaniye</item>
+        <item>5000 milisaniye</item>
+    </string-array>
+    <string-array name="pref_burstmodemaximages_titles">
+        <item>10 görüntü</item>
+        <item>15 görüntü</item>
+        <item>20 görüntü</item>
+        <item>25 görüntü</item>
+        <item>30 görüntü</item>
+        <item>40 görüntü</item>
+        <item>50 görüntü</item>
+        <item>60 görüntü</item>
+        <item>70 görüntü</item>
+        <item>80 görüntü</item>
+        <item>90 görüntü</item>
+        <item>100 görüntü</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_back_titles">
+        <item>Hiçbiri</item>
+        <item>Fotoğraf makinesi</item>
+        <item>Video kamera</item>
+        <item>Selfie</item>
+        <item>Galeri</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_titles">
+        <item>Hiçbiri</item>
+        <item>Deklanşör</item>
+        <item>Film şeridi göster</item>
+        <item>Fotoğraf / Video</item>
+        <item>Arka / ön</item>
+    </string-array>
+    <string-array name="pref_gifquality_titles">
+        <item>Düþük</item>
+        <item>Orta</item>
+        <item>Yüksek</item>
+    </string-array>
+    <string-array name="pref_jpegquality_titles">
+        <item>Düþük</item>
+        <item>Orta</item>
+        <item>Standart</item>
+        <item>Yüksek</item>
+        <item>Mükemmel</item>
+    </string-array>
+    <string-array name="pref_maxduration_titles">
+        <item>1 dakika</item>
+        <item>2 dakika</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>15 dakika</item>
+        <item>30 dakika</item>
+        <item>Sýnýrsýz</item>
+    </string-array>
+    <string-array name="pref_photosize_titles">
+        <item>Küçük</item>
+        <item>Orta</item>
+        <item>Geniþ</item>
+    </string-array>
+    <string-array name="pref_videoquality_titles">
+        <item>Düþük (Küçük dosya boyutu)</item>
+        <item>Orta (Normal dosya boyutu)</item>
+        <item>Yüksek (Büyük dosya boyutu)</item>
+    </string-array>
+    <string-array name="pref_volumekey_titles">
+        <item>Fotoðraf çek veya kaydý baþlat</item>
+        <item>Yakýnlaþtýr/Uzaklaþtýr</item>
+        <item>Ses yükselt/düþür</item>
+    </string-array>
+</resources>

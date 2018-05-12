@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service android:description="@string/fingerprint_service_description" android:summary="@string/fingerprint_service_summary" android:settingsActivity="com.martindroidapps.camera.SettingsActivity" android:packageNames="com.martindroidapps.camera" android:accessibilityFeedbackType="feedbackGeneric" android:accessibilityFlags="flagRequestFingerprintGestures"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

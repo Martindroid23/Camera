@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/fab_margin_M"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="22.0sp" android:textColor="@color/colorAccent" android:id="@id/media_info_title_id" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/fab_margin_XXXXS" android:layout_marginBottom="@dimen/fab_margin_M" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/media_info_head1" android:paddingBottom="@dimen/fab_margin_XS" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent">
+            <ImageView android:id="@id/media_info_img1" android:background="@drawable/ic_today_white_24px" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/fab_margin_XXXXS" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/fab_margin_S" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:id="@id/media_info_txt1" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:id="@id/media_info_txt2" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/media_info_head2" android:paddingBottom="@dimen/fab_margin_XS" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent">
+            <ImageView android:id="@id/media_info_img2" android:background="@drawable/ic_insert_photo_white_24px" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/fab_margin_XXXXS" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/fab_margin_S" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:id="@id/media_info_txt3" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:id="@id/media_info_txt4" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/media_info_head_dng" android:paddingBottom="@dimen/fab_margin_XS" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent">
+            <ImageView android:id="@id/media_info_img_dng" android:background="@drawable/ic_dng_white_24dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/fab_margin_XXXXS" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/fab_margin_S" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:id="@id/media_info_txt_dng_caption" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/saved_dng_path" />
+            <TextView android:id="@id/media_info_txt_dng_path" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/media_info_head3" android:paddingBottom="@dimen/fab_margin_XS" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent">
+            <ImageView android:id="@id/media_info_img3" android:background="@drawable/ic_camera_white_24px" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/fab_margin_XXXXS" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/fab_margin_S" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:id="@id/media_info_txt5" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:id="@id/media_info_txt6" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/media_info_head4" android:paddingBottom="@dimen/fab_margin_XS" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent">
+            <ImageView android:id="@id/media_info_img4" android:background="@drawable/ic_place_white_24px" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/fab_margin_XXXXS" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/fab_margin_S" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textColor="@color/colorAccent" android:id="@id/media_info_txt7" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:textColor="@color/colorAccent" android:id="@id/media_info_txt8" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/media_info_head5" android:paddingBottom="@dimen/fab_margin_XS" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent">
+            <ImageView android:id="@id/media_info_img5" android:background="@drawable/ic_burst_mode_white_24px" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/fab_margin_S" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:id="@id/media_info_txt9" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:textColor="@color/colorAccent" android:id="@id/media_info_txt10" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

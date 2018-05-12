@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_antibanding_titles">
+        <item>Automatisch</item>
+        <item>50Hz (Europa)</item>
+        <item>60Hz (VS)</item>
+        <item>Uit</item>
+    </string-array>
+    <string-array name="pref_array_support">
+        <item>Feedback verzenden</item>
+        <item>Ondersteuning</item>
+        <item>Een probleem melden</item>
+    </string-array>
+    <string-array name="pref_audiosrc_titles">
+        <item>Standaard audio bron</item>
+        <item>Microfoon audiobron</item>
+        <item>Microfoon audiobron tuned voor video-opname</item>
+    </string-array>
+    <string-array name="pref_burstmodeinterval_titles">
+        <item>100 milliseconden</item>
+        <item>100 milliseconden</item>
+        <item>300 milliseconden</item>
+        <item>400 milliseconden</item>
+        <item>500 milliseconden</item>
+        <item>600 milliseconden</item>
+        <item>700 milliseconden</item>
+        <item>800 milliseconden</item>
+        <item>900 milliseconden</item>
+        <item>1000 milliseconden</item>
+        <item>2000 milliseconden</item>
+        <item>3000 milliseconden</item>
+        <item>4000 milliseconden</item>
+        <item>5000 milliseconden</item>
+    </string-array>
+    <string-array name="pref_burstmodemaximages_titles">
+        <item>10 opnamen</item>
+        <item>15 opnamen</item>
+        <item>20 opnamen</item>
+        <item>25 opnamen</item>
+        <item>30 opnamen</item>
+        <item>40 opnamen</item>
+        <item>50 opnames</item>
+        <item>60 opnames</item>
+        <item>70 opnamen</item>
+        <item>80 opnamen</item>
+        <item>90 opnamen</item>
+        <item>100 opnamen</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_back_titles">
+        <item>Geen</item>
+        <item>Fotocamera</item>
+        <item>Videocamera</item>
+        <item>Selfie</item>
+        <item>Gallerij</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_titles">
+        <item>Geen</item>
+        <item>Sluitertijd</item>
+        <item>Filmstrip weergeven</item>
+        <item>Foto / Video</item>
+        <item>Terug / Front</item>
+    </string-array>
+    <string-array name="pref_gifquality_titles">
+        <item>Laag</item>
+        <item>Medium</item>
+        <item>Hoog</item>
+    </string-array>
+    <string-array name="pref_jpegquality_titles">
+        <item>Laag</item>
+        <item>Medium</item>
+        <item>Standaard</item>
+        <item>Hoog</item>
+        <item>Uitmuntend</item>
+    </string-array>
+    <string-array name="pref_maxduration_titles">
+        <item>1 minuut</item>
+        <item>2 minuten</item>
+        <item>5 minuten</item>
+        <item>10 minuten</item>
+        <item>15 minuten</item>
+        <item>30 minuten</item>
+        <item>Onbeperkt</item>
+    </string-array>
+    <string-array name="pref_photosize_titles">
+        <item>Klein</item>
+        <item>Medium</item>
+        <item>Groot</item>
+    </string-array>
+    <string-array name="pref_videoquality_titles">
+        <item>Low (kleine bestandsgrootte)</item>
+        <item>Medium (normale bestandsgrootte)</item>
+        <item>Hoog (grotere bestandsgrootte)</item>
+    </string-array>
+    <string-array name="pref_volumekey_titles">
+        <item>Foto maken of opname starten</item>
+        <item>Zoom in/uit</item>
+        <item>Volume omhoog/omlaag</item>
+    </string-array>
+</resources>

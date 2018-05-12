@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+        <ImageView android:id="@id/splash_logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/logo_footej_camera" android:layout_centerHorizontal="true" android:contentDescription="@string/app_name" />
+        <ProgressBar android:id="@id/splash_prog" android:layout_width="200.0dip" android:layout_height="wrap_content" android:max="100" android:progress="1" android:layout_below="@id/splash_logo" android:layout_centerHorizontal="true" style="?android:progressBarStyleHorizontal" />
+        <TextView android:id="@id/slash_status_text" android:paddingTop="12.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/splash_prog" android:layout_centerHorizontal="true" />
+        <android.support.v7.widget.AppCompatButton android:id="@id/splash_try_again_button" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/splash_try_again_button" android:layout_below="@id/slash_status_text" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</RelativeLayout>

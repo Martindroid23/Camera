@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_antibanding_titles">
+        <item>Αυτόματο</item>
+        <item>50Hz (Ευρώπη)</item>
+        <item>60Hz (Η.Π.Α.)</item>
+        <item>Απενεργοποιημένο</item>
+    </string-array>
+    <string-array name="pref_array_support">
+        <item>Στείλω σχόλια</item>
+        <item>Ζητήσω υποστήριξη</item>
+        <item>Αναφέρω πρόβλημα</item>
+    </string-array>
+    <string-array name="pref_audiosrc_titles">
+        <item>Προεπιλεγμένη πηγή ήχου</item>
+        <item>Πηγή ήχου μικροφώνου</item>
+        <item>Πηγή ήχου μικροφώνου ειδική για εγγραφή βίντεο</item>
+    </string-array>
+    <string-array name="pref_burstmodeinterval_titles">
+        <item>100 milliseconds</item>
+        <item>200 milliseconds</item>
+        <item>300 milliseconds</item>
+        <item>400 milliseconds</item>
+        <item>500 milliseconds</item>
+        <item>600 milliseconds</item>
+        <item>700 milliseconds</item>
+        <item>800 milliseconds</item>
+        <item>900 milliseconds</item>
+        <item>1000 milliseconds</item>
+        <item>2000 milliseconds</item>
+        <item>3000 milliseconds</item>
+        <item>4000 milliseconds</item>
+        <item>5000 milliseconds</item>
+    </string-array>
+    <string-array name="pref_burstmodemaximages_titles">
+        <item>10 εικόνες</item>
+        <item>15 εικόνες</item>
+        <item>20 εικόνες</item>
+        <item>25 εικόνες</item>
+        <item>30 εικόνες</item>
+        <item>40 εικόνες</item>
+        <item>50 εικόνες</item>
+        <item>60 εικόνες</item>
+        <item>70 εικόνες</item>
+        <item>80 εικόνες</item>
+        <item>90 εικόνες</item>
+        <item>100 εικόνες</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_back_titles">
+        <item>Κανένα</item>
+        <item>Φωτογραφία</item>
+        <item>Βιντεοκάμερα</item>
+        <item>Selfie</item>
+        <item>Συλλογή</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_titles">
+        <item>Κανένα</item>
+        <item>Κλείστρο</item>
+        <item>Εμφάνιση Συλλογής</item>
+        <item>Φωτογραφία / βίντεο</item>
+        <item>Πίσω / εμπρός</item>
+    </string-array>
+    <string-array name="pref_gifquality_titles">
+        <item>Χαμηλή</item>
+        <item>Μεσαία</item>
+        <item>Υψηλή</item>
+    </string-array>
+    <string-array name="pref_jpegquality_titles">
+        <item>Χαμηλή</item>
+        <item>Μεσαία</item>
+        <item>Κανονική</item>
+        <item>Υψηλή</item>
+        <item>Εξαιρετική</item>
+    </string-array>
+    <string-array name="pref_maxduration_titles">
+        <item>1 λεπτό</item>
+        <item>2 λεπτά</item>
+        <item>5 λεπτά</item>
+        <item>10 λεπτά</item>
+        <item>15 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>Απεριόριστη</item>
+    </string-array>
+    <string-array name="pref_photosize_titles">
+        <item>Μικρό</item>
+        <item>Μεσαίο</item>
+        <item>Μεγάλο</item>
+    </string-array>
+    <string-array name="pref_videoquality_titles">
+        <item>Χαμηλή (μικρό μέγεθος αρχείου)</item>
+        <item>Μεσαία (κανονικό μέγεθος αρχείου)</item>
+        <item>Υψηλή (μεγάλο μέγεθος αρχείου)</item>
+    </string-array>
+    <string-array name="pref_volumekey_titles">
+        <item>Λήψη φωτογραφίας ή εκκίνηση εγγραφής</item>
+        <item>Αυξομείωση μεγένθυσης</item>
+        <item>Αυξομείωση ήχου</item>
+    </string-array>
+</resources>

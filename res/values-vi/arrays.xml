@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_antibanding_titles">
+        <item>Tự động</item>
+        <item>50Hz (Châu Âu)</item>
+        <item>60 Hz (Hoa Kỳ)</item>
+        <item>Tắt</item>
+    </string-array>
+    <string-array name="pref_array_support">
+        <item>Gửi phản hồi</item>
+        <item>Nhận hỗ trợ</item>
+        <item>Báo cáo vấn đề</item>
+    </string-array>
+    <string-array name="pref_audiosrc_titles">
+        <item>Nguồn âm thanh mặc định</item>
+        <item>Nguồn âm thanh Micro</item>
+        <item>Nguồn micro âm thanh điều chỉnh cho video ghi âm</item>
+    </string-array>
+    <string-array name="pref_burstmodeinterval_titles">
+        <item>100 mili giây</item>
+        <item>200 mili giây</item>
+        <item>300 mili giây</item>
+        <item>400 mili giây</item>
+        <item>500 mili giây</item>
+        <item>600 mili giây</item>
+        <item>700 mili giây</item>
+        <item>800 mili giây</item>
+        <item>900 mili giây</item>
+        <item>1000 mili giây</item>
+        <item>2000 mili giây</item>
+        <item>3000 mili giây</item>
+        <item>4000 mili giây</item>
+        <item>5000 mili giây</item>
+    </string-array>
+    <string-array name="pref_burstmodemaximages_titles">
+        <item>10 hình ảnh</item>
+        <item>15 hình ảnh</item>
+        <item>20 hình ảnh</item>
+        <item>25 hình ảnh</item>
+        <item>30 hình ảnh</item>
+        <item>40 hình ảnh</item>
+        <item>50 hình ảnh</item>
+        <item>60 hình ảnh</item>
+        <item>70 mili giây</item>
+        <item>80 mili giây</item>
+        <item>90 mili giây</item>
+        <item>100 mili giây</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_back_titles">
+        <item>Không</item>
+        <item>Máy ảnh</item>
+        <item>Máy quay video</item>
+        <item>Tự sướng</item>
+        <item>Thư viện ảnh</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_titles">
+        <item>Không</item>
+        <item>Màn trập</item>
+        <item>Hiển thị các cuộn phim</item>
+        <item>Ảnh / Video</item>
+        <item>Trở lại / phía trước</item>
+    </string-array>
+    <string-array name="pref_gifquality_titles">
+        <item>Thấp</item>
+        <item>Trung bình</item>
+        <item>Cao</item>
+    </string-array>
+    <string-array name="pref_jpegquality_titles">
+        <item>Thấp</item>
+        <item>Trung bình</item>
+        <item>Tiêu chuẩn</item>
+        <item>Cao</item>
+        <item>Hoàn hảo</item>
+    </string-array>
+    <string-array name="pref_maxduration_titles">
+        <item>1 phút</item>
+        <item>2 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>15 phút</item>
+        <item>30 phút</item>
+        <item>Không giới hạn</item>
+    </string-array>
+    <string-array name="pref_photosize_titles">
+        <item>Nhỏ</item>
+        <item>Trung bình</item>
+        <item>Lớn</item>
+    </string-array>
+    <string-array name="pref_videoquality_titles">
+        <item>Thấp (kích thước tập tin nhỏ)</item>
+        <item>Trung bình (kích thước tập tin bình thường)</item>
+        <item>Cao (kích thước tập tin lớn)</item>
+    </string-array>
+    <string-array name="pref_volumekey_titles">
+        <item>Chụp ảnh hoặc bắt đầu ghi âm</item>
+        <item>Phóng to / thu nhỏ</item>
+        <item>Tăng / giảm âm lượng</item>
+    </string-array>
+</resources>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_antibanding_titles">
+        <item>Automaticky</item>
+        <item>50Hz (Evropa)</item>
+        <item>60Hz (USA)</item>
+        <item>Vypnuto</item>
+    </string-array>
+    <string-array name="pref_array_support">
+        <item>Odeslat názor</item>
+        <item>Získat podporu</item>
+        <item>Nahlásit problém</item>
+    </string-array>
+    <string-array name="pref_audiosrc_titles">
+        <item>Výchozí zdroj zvuku</item>
+        <item>Zdroj zvuku mikrofonu</item>
+        <item>Zdroj zvuku mikrofonu pro nahrávání videa</item>
+    </string-array>
+    <string-array name="pref_burstmodeinterval_titles">
+        <item>100 milisekund</item>
+        <item>200 milisekund</item>
+        <item>300 milisekund</item>
+        <item>400 milisekund</item>
+        <item>500 milisekund</item>
+        <item>600 milisekund</item>
+        <item>700 milisekund</item>
+        <item>800 milisekund</item>
+        <item>900 milisekund</item>
+        <item>1000 milisekund</item>
+        <item>2000 milisekund</item>
+        <item>3000 milisekund</item>
+        <item>4000 milisekund</item>
+        <item>5000 milisekund</item>
+    </string-array>
+    <string-array name="pref_burstmodemaximages_titles">
+        <item>10 snímkù</item>
+        <item>15 snímkù</item>
+        <item>20 snímkù</item>
+        <item>25 snímkù</item>
+        <item>30 snímkù</item>
+        <item>40 snímlù</item>
+        <item>50 snímkù</item>
+        <item>60 snímkù</item>
+        <item>70 snímkù</item>
+        <item>80 snímkù</item>
+        <item>90 snímkù</item>
+        <item>100 snímkù</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_back_titles">
+        <item>Nic</item>
+        <item>Fotografie z fotoaparátu</item>
+        <item>Video camera</item>
+        <item>Selfie</item>
+        <item>Galerie</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_titles">
+        <item>Nic</item>
+        <item>Závěrka</item>
+        <item>Zobrazit filmový pás</item>
+        <item>Foto / Video</item>
+        <item>Zadní / přední</item>
+    </string-array>
+    <string-array name="pref_gifquality_titles">
+        <item>Nízká</item>
+        <item>Střední</item>
+        <item>Vyskoká</item>
+    </string-array>
+    <string-array name="pref_jpegquality_titles">
+        <item>Nízká</item>
+        <item>Støední</item>
+        <item>Standartní</item>
+        <item>Vysoká</item>
+        <item>Excelentní</item>
+    </string-array>
+    <string-array name="pref_maxduration_titles">
+        <item>1 minuta</item>
+        <item>2 minuty</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>Neomezeně</item>
+    </string-array>
+    <string-array name="pref_photosize_titles">
+        <item>Malý</item>
+        <item>Střední</item>
+        <item>Velký</item>
+    </string-array>
+    <string-array name="pref_videoquality_titles">
+        <item>Nízká (Malý soubor)</item>
+        <item>Střední (Normální velikost)</item>
+        <item>Vysoká (Velký soubor)</item>
+    </string-array>
+    <string-array name="pref_volumekey_titles">
+        <item>Vyfotit nebo začít nahrávat</item>
+        <item>Přiblížit/Oddálit</item>
+        <item>Zvýšení/snížení hlasitosti</item>
+    </string-array>
+</resources>

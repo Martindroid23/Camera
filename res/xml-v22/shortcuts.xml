@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut android:icon="@drawable/ic_shortcut_selfie" android:enabled="true" android:shortcutId="selfie" android:shortcutShortLabel="@string/shortcut_short_label_selfie" android:shortcutLongLabel="@string/shortcut_long_label_selfie" android:shortcutDisabledMessage="@string/shortcut_disabled_selfie">
+        <intent android:targetPackage="com.martindroidapps.camera" android:action="footej.media.FRONT_CAMERA" android:targetClass="com.martindroidapps.camera.CameraActivity" />
+        <categories android:name="android.shortcut.camera" />
+    </shortcut>
+    <shortcut android:icon="@drawable/ic_shortcut_video" android:enabled="true" android:shortcutId="video" android:shortcutShortLabel="@string/shortcut_short_label_video" android:shortcutLongLabel="@string/shortcut_long_label_video" android:shortcutDisabledMessage="@string/shortcut_disabled_video">
+        <intent android:targetPackage="com.martindroidapps.camera" android:action="android.media.action.VIDEO_CAMERA" android:targetClass="com.martindroidapps.camera.CameraActivity" />
+        <categories android:name="android.shortcut.camera" />
+    </shortcut>
+    <shortcut android:icon="@drawable/ic_shortcut_gallery" android:enabled="false" android:shortcutId="gallery" android:shortcutShortLabel="@string/shortcut_short_label_gallery" android:shortcutLongLabel="@string/shortcut_long_label_gallery" android:shortcutDisabledMessage="@string/shortcut_disabled_gallery">
+        <intent android:targetPackage="com.martindroidapps.camera" android:action="footej.media.VIEW" android:targetClass="com.martindroidapps.camera.CameraActivity" />
+        <categories android:name="android.shortcut.camera" />
+    </shortcut>
+</shortcuts>

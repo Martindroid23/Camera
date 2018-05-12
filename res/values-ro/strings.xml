@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigați la ecranul de pornire</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Terminat</string>
+    <string name="abc_activity_chooser_view_see_all">Afișați-le pe toate</string>
+    <string name="abc_activitychooserview_choose_application">Alegeți o aplicație</string>
+    <string name="abc_capital_off">DEZACTIVAȚI</string>
+    <string name="abc_capital_on">ACTIVAT</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Ștergeți interogarea</string>
+    <string name="abc_searchview_description_query">Interogare de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți interogarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Trimiteți la</string>
+    <string name="abc_shareactionprovider_share_with_application">Trimiteți folosind %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="action_crop_image">Decupare 1:1</string>
+    <string name="action_edit_intent_error">Nu există aplicație pentru editarea acestui conținut media</string>
+    <string name="action_gallery_burst_extract">Extragere</string>
+    <string name="action_gallery_create">Creați o poveste</string>
+    <string name="action_gallery_create_gif">Creați GIF animat</string>
+    <string name="action_gallery_delete">Ștergere</string>
+    <string name="action_gallery_edit">Editare</string>
+    <string name="action_gallery_info">Informație</string>
+    <string name="action_gallery_share">Distribuire</string>
+    <string name="action_initial_scan">Rescanare bibliotecă</string>
+    <string name="action_settings">Setări</string>
+    <string name="action_slider_show_gallery">Galerie</string>
+    <string name="app_name">Footej Camera</string>
+    <string name="backCameraNotFound">Camera din spate nu a fost găsită</string>
+    <string name="back_camera">Camera din spate</string>
+    <string name="burst_count_photos">%d fotografii</string>
+    <string name="burst_group_photos">Serie fotografii</string>
+    <string name="common_google_play_services_unknown_issue">%1$s întâmpină probleme privind serviciile Google Play. Încercați din nou.</string>
+    <string name="compensation_option">Opţiune compensare</string>
+    <string name="compose_panorama">Panorama de prelucrare</string>
+    <string name="countdown_option_caption">Numărătoare inversă</string>
+    <string name="criticalError">O eroare critică a apărut! Ne cerem scuze pentru neplăceri. Trimiteți-ne un raport de problemă pentru a investiga acest lucru.</string>
+    <string name="criticalErrorRestart">Există o problemă cu serviciul de cameră, dacă problema persistă, încercați să reporniți dispozitivul.</string>
+    <string name="date_today">Astăzi</string>
+    <string name="date_yesterday">Ieri</string>
+    <string name="device_storage">Dispozitiv</string>
+    <string name="donations">Continuă să ne sprijiniți</string>
+    <string name="enable_gps">Doriţi să activaţi GPS-ul?</string>
+    <string name="error_delete_file">Nu se poate şterge fişierul %s</string>
+    <string name="error_loading_thumb">Nu se pot încărca informaţiile media pentru acest fișier</string>
+    <string name="error_loading_thumb_image">Imposibil de încărcat miniatura pentru acest fișier</string>
+    <string name="exposure_rs_pnl">expunere</string>
+    <string name="filechoose_cancel">Anulare</string>
+    <string name="filechoose_reset">Resetare</string>
+    <string name="filechoose_select">Selectaţi</string>
+    <string name="filechooser_title">Selectaţi dosarul de stocare pentru %s</string>
+    <string name="fingerprint_cat_app_background">Aplicaţie fundal</string>
+    <string name="fingerprint_cat_app_foreground">Aplicaţie prim-plan</string>
+    <string name="fingerprint_service_description">"Când este activată, aveţi dreptul să cesionaţi amprente gesturile (swipe sus/jos/stânga/dreapta) pentru actiuni predefinite în app pentru a efectua cu uşurinţă operaţiuni de bază. Atunci când aplicaţia este în fundal acțiuni disponibile sunt: 
+ • deschis foto camera
+ • Open Video camera
+ • Open foto frontală camera
+ • Open Gallery
+When aplicaţia este în prim-plan acțiuni disponibile sunt: 
+ • expunere button
+ • Arată filmstrip
+ • schimbare Foto/Video mode
+ • schimbare Back/Front camera
+ • navigare în filmstrip"</string>
+    <string name="fingerprint_service_summary">Gesturi amprentă</string>
+    <string name="focus_rs_pnl">distanță</string>
+    <string name="frontCameraNotFound">Camera frontală nu a fost găsită</string>
+    <string name="front_camera">Camera frontală</string>
+    <string name="gallery">Galerie</string>
+    <string name="gallery_confirm_delete_image_msg">Sigur ştergeţi acest element?</string>
+    <string name="gallery_confirm_delete_msg">Sigur doriți să ștergeți %d elemente?</string>
+    <string name="gallery_confirm_export_image_msg">Sigur doriți să exportați această imagine?</string>
+    <string name="gallery_confirm_negative_btn">Anulare</string>
+    <string name="gallery_confirm_positive_btn">OK</string>
+    <string name="gallery_confirm_title">Confirmaţi</string>
+    <string name="gallery_crop_message">Decupare imagine</string>
+    <string name="gallery_delete_msg">Au fost şterse %d elemente</string>
+    <string name="gallery_extract_error">Eroare la extragerea imaginii %s</string>
+    <string name="gallery_extract_msg">Imaginea %s a fost extrasă</string>
+    <string name="gallery_gif_limit_msg">Vă rugăm să selectaţi cel puţin 2 fotografii</string>
+    <string name="gallery_gif_message">Creare GIF animat</string>
+    <string name="gallery_share_msg">Distribuire fișiere media către..</string>
+    <string name="gallery_slider_delete_msg">A fost şters %s</string>
+    <string name="gallery_slider_deleted_msg">Șters</string>
+    <string name="gallery_undo_delete">ANULAȚI</string>
+    <string name="location_manager">Manager de locaţie</string>
+    <string name="manual_focus_option">Opţiune focalizare manuală</string>
+    <string name="manualfocuszoom_toast">Zoom activat pentru focalizarea manuală</string>
+    <string name="media_info_duration">Durată: %s</string>
+    <string name="media_info_image_title">Informaţii imagine</string>
+    <string name="media_info_video_title">Informaţii video</string>
+    <string name="miscellaneous">Diverse</string>
+    <string name="msg_permissions_sd">Permisiunile nu au fost acordate. Încercați din nou</string>
+    <string name="msg_sd_instructions">Selectați dosarul rădăcină al cardului SD extern pentru a acorda permisiunea de acces de scriere</string>
+    <string name="no">Nu</string>
+    <string name="no_media_found">Galeria este goală</string>
+    <string name="notification_channel_description">Notificări despre serviciul de procesare a imaginilor</string>
+    <string name="notification_channel_name">Notificări privind serviciul de procesare Footej</string>
+    <string name="permission_dialog_message">"Aplicația necesită permisiunile de mai jos pentru a funcționa în mod normal.
+Reporniți aplicaţia și acordaţi permisiunile atunci când apare solicitarea sau acordați permisiunile din setările dispozitivului.
+
+%s"</string>
+    <string name="permission_dialog_title">Permisiunile necesare</string>
+    <string name="photography_camera">Camera foto</string>
+    <string name="pref_description_brightness">Forțează luminozitatea maximă a ecranului la previzualizarea aparatului foto</string>
+    <string name="pref_description_default_gallery">Utilizați galeria sistemului în locul celei încorporate</string>
+    <string name="pref_description_geolocation">Salvaţi locația geografică în videoclipuri şi fotografii</string>
+    <string name="pref_description_gesture_enable">Activaţi serviciul de accesibilitate</string>
+    <string name="pref_description_gesture_filmstrip_enable">Activați navigarea în diafilm</string>
+    <string name="pref_description_manualfocuszoom">Previzualizarea a fost mărită pentru a apropia subiectul</string>
+    <string name="pref_description_shuttersounds">Activare sau dezactivare sunete obturator</string>
+    <string name="pref_description_stabilization">Activați stabilizarea dacă aceasta este disponibilă</string>
+    <string name="pref_header_about">Despre</string>
+    <string name="pref_header_general">General</string>
+    <string name="pref_header_photo">Foto</string>
+    <string name="pref_header_video">Video</string>
+    <string name="pref_licences">Licențe Open-source</string>
+    <string name="pref_purchase_donate_1">Deveniți un urmaș</string>
+    <string name="pref_purchase_donate_2">Suport pentru dezvoltatori</string>
+    <string name="pref_purchase_donate_3">Footej entuziast</string>
+    <string name="pref_purchase_donate_title">Achiziționați &amp; amp; Dona</string>
+    <string name="pref_summary_purchases">niciuna</string>
+    <string name="pref_summary_support">Trimiteți feedback, obțineți suport sau raportați probleme</string>
+    <string name="pref_title_antibanding">Antibanding</string>
+    <string name="pref_title_audiosrc">Sursă audio</string>
+    <string name="pref_title_brightness">Forțare luminozitate maximă</string>
+    <string name="pref_title_burst">Captură în serie</string>
+    <string name="pref_title_burstmodeinterval">Interval minim</string>
+    <string name="pref_title_burstmodemaximages">Capturi maxime</string>
+    <string name="pref_title_default_gallery">Utilizaţi Galeria implicită</string>
+    <string name="pref_title_fingerprint_swipe_down">Glisare în jos</string>
+    <string name="pref_title_fingerprint_swipe_left">Glisare spre stânga</string>
+    <string name="pref_title_fingerprint_swipe_right">Glisare spre dreapta</string>
+    <string name="pref_title_fingerprint_swipe_up">Glisare în sus</string>
+    <string name="pref_title_flip_photos_front_camera">Răsucire fotografii din camera frontală</string>
+    <string name="pref_title_focus_priority">Prioritate focalizare înainte de fotografiere</string>
+    <string name="pref_title_geolocation">Salvați locația</string>
+    <string name="pref_title_gestures_enable">Activați</string>
+    <string name="pref_title_gestures_filmstrip_enable">Navigare diafilm</string>
+    <string name="pref_title_gif_quality">Calitate GIF animat</string>
+    <string name="pref_title_infocommunity">Comunitate Google+</string>
+    <string name="pref_title_infofbpage">Pagina de Facebook</string>
+    <string name="pref_title_jpegquality">Calitate JPEG</string>
+    <string name="pref_title_legalinfo">Informaţii juridice</string>
+    <string name="pref_title_manualfocuszoom">Zoom focalizare manuală</string>
+    <string name="pref_title_maxduration">Durata maximă</string>
+    <string name="pref_title_photo_file_prefix">Prefix nume fișier</string>
+    <string name="pref_title_photoratio">Raport</string>
+    <string name="pref_title_photosize">Dimensiune</string>
+    <string name="pref_title_photosize_back">Camera din spate</string>
+    <string name="pref_title_photosize_front">Camera frontală</string>
+    <string name="pref_title_privacy">Politica de confidențialitate</string>
+    <string name="pref_title_purchases">Achiziții</string>
+    <string name="pref_title_rendervideosizes">Rezoluție video</string>
+    <string name="pref_title_show_histogram">Afișare histogramă</string>
+    <string name="pref_title_shuttersounds">Sunet obturator</string>
+    <string name="pref_title_stabilization">Stabilizare</string>
+    <string name="pref_title_storage_photo">Locația spațiului de stocare</string>
+    <string name="pref_title_storage_video">Locația spațiului de stocare</string>
+    <string name="pref_title_support">Feedback și asistență</string>
+    <string name="pref_title_use_high_speed">Utilizați sesiunea de mare viteză atunci când este necesar</string>
+    <string name="pref_title_use_high_speed_desc">Atunci când este activată o mișcare lentă, este utilizată o sesiune de mare viteză pentru a obține o frecvență maximă. Sesiunea de mare viteză suprascrie dimensiunea de înregistrare selectată și dezactivează comenzile manuale.</string>
+    <string name="pref_title_video_file_prefix">Prefix nume fișier</string>
+    <string name="pref_title_video_quality">Calitate video</string>
+    <string name="pref_title_videosize_back">Camera din spate</string>
+    <string name="pref_title_videosize_front">Camera frontală</string>
+    <string name="pref_title_volumekey">Taste de volum</string>
+    <string name="pref_title_website">Site web</string>
+    <string name="processing_image_error">Eroare de prelucrare a imaginii</string>
+    <string name="purchase_btn">Cumpărare</string>
+    <string name="purchase_donate_btn">Achiziționați &amp; amp; Dona</string>
+    <string name="purchase_error_msg">"A apărut o problemă în timpul achiziției.
+Încercați din nou mai târziu"</string>
+    <string name="purchase_sku_description">Cumpărați acum pachetul Premium pentru a obține</string>
+    <string name="purchase_sku_description_purchased">Ați achiziționat deja pachetul Premium</string>
+    <string name="purchase_sku_details">"
+ • Interval mai mic de 500ms
+ • Mai mult de 20 de fotografii în fotografierea în serie
+ • Calitate JPEG mai bună
+ • Antibanding în 50Hz şi 60Hz
+ • Durată maximă a videoclipului mai mare de 5 minute
+ • Histograma imaginii
+ • GIF-uri animate de înaltă rezoluție"</string>
+    <string name="purchase_success_msg">Mulțumesc pentru achiziție!</string>
+    <string name="purchase_warning_message">"Footej Camera Premium este necesară pentru a utiliza această caracteristică.
+
+"</string>
+    <string name="purchases">Achiziții</string>
+    <string name="rate_later">Mai târziu</string>
+    <string name="rate_message">"Vă bucuraţi de camera Footej?
+Faceţi ca părerea dvs. să conteze!"</string>
+    <string name="rate_no">Nu, mulţumesc</string>
+    <string name="rate_ok">Evaluați</string>
+    <string name="rate_title">Evaluaţi Footej în Magazinul Play!</string>
+    <string name="rendering_hdr">Vizualizarea imaginii HDR</string>
+    <string name="report">Raportați</string>
+    <string name="resolution">Rezoluție</string>
+    <string name="restart">Repornire</string>
+    <string name="sGeneralRecordingError">S-a produs o eroare irecuperabilă! Reporniţi aplicaţia</string>
+    <string name="sOutOfMemoryRecordingError">Dispozitivul nu are memorie! Reporniți aplicația</string>
+    <string name="sPauseRecordingError">Pauză înregistrare nereușită!</string>
+    <string name="sPrepareRecordingError">Fişierul înregistrat nu poate fi pregătit!</string>
+    <string name="sResumeRecordingError">Reluarea înregistrării a eșuat!</string>
+    <string name="sSDCardWriteError">Nu se poate începe înregistrarea, probabil Cardul SD nu poate fi montat</string>
+    <string name="sStartRecordingError">Camera nu poate porni înregistrarea!</string>
+    <string name="sStopRecordingError">Oprire înregistrare nereușită!</string>
+    <string name="saved_dng_path">Cale DNG salvat:</string>
+    <string name="sdcard_storage">Card SD</string>
+    <string name="search_menu_title">Căutați</string>
+    <string name="section_format">Hello World din secțiunea: %1$d</string>
+    <string name="settings">Setări</string>
+    <string name="shortcut_disabled_gallery">Galerie</string>
+    <string name="shortcut_disabled_selfie">Selfie</string>
+    <string name="shortcut_disabled_video">Camera video</string>
+    <string name="shortcut_long_label_gallery">Afişare galerie</string>
+    <string name="shortcut_long_label_selfie">Faceți un selfie</string>
+    <string name="shortcut_long_label_video">Faceți un videoclip</string>
+    <string name="shortcut_short_label_gallery">Galerie</string>
+    <string name="shortcut_short_label_selfie">Selfie</string>
+    <string name="shortcut_short_label_video">Video</string>
+    <string name="shutter_speed_option">Opţiune viteză obturator</string>
+    <string name="status_bar_notification_info_overflow">˃999</string>
+    <string name="support_intent_msg">Trimiteţi email…</string>
+    <string name="support_title">Eu vreau să…</string>
+    <string name="title_activity_purchase">Achiziții</string>
+    <string name="title_activity_settings">Setări</string>
+    <string name="title_sd_instructions">Acces de scriere pe cardul SD extern</string>
+    <string name="video_camera">Camera video</string>
+    <string name="yes">Da</string>
+</resources>

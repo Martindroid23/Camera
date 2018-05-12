@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:layout="@layout/preference_category_first_layout" android:title="@string/resolution" android:key="cat_resolution">
+        <com.martindroidapps.camera.Preferences.PhotoSizePreference android:icon="@drawable/ic_photo_camera_back_grey600_24dp" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_photosize_back" android:key="photosize_back" />
+        <com.martindroidapps.camera.Preferences.PhotoSizePreference android:icon="@drawable/ic_photo_camera_front_grey600_24dp" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_photosize_front" android:key="photosize_front" />
+    </PreferenceCategory>
+    <PreferenceScreen android:icon="@drawable/quantum_ic_burst_mode_grey600_24" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_burst" android:key="cat_burstmode">
+        <ListPreference android:icon="@drawable/timer" android:entries="@array/pref_burstmodeinterval_titles" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_burstmodeinterval" android:key="burst_mode_interval" android:defaultValue="500" android:entryValues="@array/pref_burstmodeinterval_values" />
+        <ListPreference android:icon="@drawable/quantum_ic_burst_mode_grey600_24" android:entries="@array/pref_burstmodemaximages_titles" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_burstmodemaximages" android:key="burst_mode_max_images" android:defaultValue="20" android:entryValues="@array/pref_burstmodemaximages_values" />
+    </PreferenceScreen>
+    <PreferenceCategory android:layout="@layout/preference_category_first_layout" android:title="@string/miscellaneous" android:key="cat_miscellaneous">
+        <ListPreference android:icon="@drawable/ic_gif_24px" android:entries="@array/pref_gifquality_titles" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_gif_quality" android:key="gif_quality" android:defaultValue="0" android:entryValues="@array/pref_gifquality_values" />
+        <SwitchPreference android:icon="@drawable/quantum_ic_insert_photo_grey600_24" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_show_histogram" android:key="photo_show_histogram" android:defaultValue="false" />
+        <SwitchPreference android:layout="@layout/preference_with_margin_noicon" android:title="@string/pref_title_focus_priority" android:key="photo_focus_priority" android:defaultValue="true" />
+        <SwitchPreference android:icon="@drawable/flip_photos" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_flip_photos_front_camera" android:key="flip_photos_front_camera" android:defaultValue="false" />
+        <Preference android:icon="@drawable/folder" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_storage_photo" android:key="photo_storage_dir" />
+        <EditTextPreference android:icon="@drawable/filename_prefix" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_photo_file_prefix" android:key="photo_file_prefix" android:inputType="textNoSuggestions" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_crop_image">1:1 剪裁</string>
+    <string name="action_edit_intent_error">不是可用的应用程序来编辑该媒体</string>
+    <string name="action_gallery_burst_extract">导出</string>
+    <string name="action_gallery_create">创建故事</string>
+    <string name="action_gallery_create_gif">创建动态 GIF</string>
+    <string name="action_gallery_delete">删除</string>
+    <string name="action_gallery_edit">编辑</string>
+    <string name="action_gallery_info">信息</string>
+    <string name="action_gallery_share">分享</string>
+    <string name="action_initial_scan">重扫描图像库</string>
+    <string name="action_settings">设置</string>
+    <string name="action_slider_show_gallery">相册</string>
+    <string name="app_name">Footej Camera</string>
+    <string name="backCameraNotFound">未发现后置摄像头</string>
+    <string name="back_camera">后置摄像头</string>
+    <string name="burst_count_photos">%d 张照片</string>
+    <string name="burst_group_photos">连拍照片</string>
+    <string name="compensation_option">补偿选项</string>
+    <string name="compose_panorama">加工全景</string>
+    <string name="countdown_option_caption">倒计时</string>
+    <string name="criticalError">出现严重错误！非常抱歉，请发送问题报告以便于调查此情况。</string>
+    <string name="criticalErrorRestart">相机服务有问题, 如果问题仍然存在, 请尝试重新启动设备。</string>
+    <string name="date_today">今天</string>
+    <string name="date_yesterday">昨天</string>
+    <string name="device_storage">设备</string>
+    <string name="donations">继续支持我们</string>
+    <string name="enable_gps">是否启用 GPS？</string>
+    <string name="error_delete_file">无法删除文件 %s</string>
+    <string name="error_loading_thumb">无法载入此文件媒体信息</string>
+    <string name="error_loading_thumb_image">无法载入此文件缩略图</string>
+    <string name="exposure_rs_pnl">曝光</string>
+    <string name="filechoose_cancel">取消</string>
+    <string name="filechoose_reset">重置</string>
+    <string name="filechoose_select">选择</string>
+    <string name="filechooser_title">选择 %s 的存储目录</string>
+    <string name="fingerprint_cat_app_background">应用程序背景</string>
+    <string name="fingerprint_cat_app_foreground">应用前景</string>
+    <string name="fingerprint_service_description">"当它处于 on 时, 您可以将指纹笔势 (向上/向下/向左/向右) 分配给应用程序中的预定义操作, 以便轻松执行基本操作。当应用程序在后台时, 可用的操作有: 
+ u2022 打开的照片照相机 
+ u2022 打开的摄像机 
+ 
+ u2022 打开前摄相机 
+ u2022 打开画廊 
+ 
+ 应用程序在前台可用的操作是: 
+ u2022 快门按钮 
+ u2022 显示幻灯片 
+ u2022 更改照片/视频模式 
+ u2022 更改回/前摄相机 
+ u2022 在幻灯片中导航"</string>
+    <string name="fingerprint_service_summary">指纹的手势</string>
+    <string name="focus_rs_pnl">焦距</string>
+    <string name="frontCameraNotFound">未发现前置摄像头</string>
+    <string name="front_camera">前置摄像头</string>
+    <string name="gallery">相册</string>
+    <string name="gallery_confirm_delete_image_msg">是否删除此项？</string>
+    <string name="gallery_confirm_delete_msg">是否删除 %d 项？</string>
+    <string name="gallery_confirm_export_image_msg">是否导出此图像？</string>
+    <string name="gallery_confirm_negative_btn">取消</string>
+    <string name="gallery_confirm_positive_btn">确定</string>
+    <string name="gallery_confirm_title">确认</string>
+    <string name="gallery_crop_message">剪裁图像</string>
+    <string name="gallery_delete_msg">已删除 %d 项</string>
+    <string name="gallery_extract_error">导出连拍图像 %s 出错</string>
+    <string name="gallery_extract_msg">连拍图像 %s 已导出</string>
+    <string name="gallery_gif_limit_msg">请选择至少 2 张照片</string>
+    <string name="gallery_gif_message">正在创建动态 GIF</string>
+    <string name="gallery_share_msg">分享到...</string>
+    <string name="gallery_slider_delete_msg">已删除 %s</string>
+    <string name="gallery_slider_deleted_msg">已删除</string>
+    <string name="gallery_undo_delete">撤消</string>
+    <string name="location_manager">位置管理器</string>
+    <string name="manual_focus_option">手动对焦选项</string>
+    <string name="manualfocuszoom_toast">手动放大对焦已启用</string>
+    <string name="media_info_duration">时长：%s</string>
+    <string name="media_info_image_title">图像信息</string>
+    <string name="media_info_video_title">视频信息</string>
+    <string name="miscellaneous">其他</string>
+    <string name="msg_permissions_sd">未授予权限，请重试</string>
+    <string name="msg_sd_instructions">请选择 SD 卡根目录以获取写权限</string>
+    <string name="no">否</string>
+    <string name="no_media_found">相册为空</string>
+    <string name="notification_channel_description">有关图像处理服务的通知</string>
+    <string name="notification_channel_name">Footej 处理服务通知</string>
+    <string name="permission_dialog_message">"应用需要以下权限以正常工作。
+请重启应用并授予出现的所需权限。
+
+%s"</string>
+    <string name="permission_dialog_title">所需权限</string>
+    <string name="photography_camera">拍照</string>
+    <string name="pref_description_brightness">拍照时强制取景器最大屏幕亮度</string>
+    <string name="pref_description_default_gallery">使用系统相册应用而不是内置应用</string>
+    <string name="pref_description_geolocation">保存地理信息到照片和视频</string>
+    <string name="pref_description_gesture_enable">启用辅助功能服务</string>
+    <string name="pref_description_gesture_filmstrip_enable">启用在幻灯片中导航</string>
+    <string name="pref_description_manualfocuszoom">手动对焦时放大对焦目标</string>
+    <string name="pref_description_shuttersounds">启用或禁用快门声音</string>
+    <string name="pref_description_stabilization">如果支持，启用稳定拍摄</string>
+    <string name="pref_header_about">关于</string>
+    <string name="pref_header_general">通用</string>
+    <string name="pref_header_photo">照片</string>
+    <string name="pref_header_video">视频</string>
+    <string name="pref_licences">开源许可证</string>
+    <string name="pref_purchase_donate_1">成为一名追随者</string>
+    <string name="pref_purchase_donate_2">开发者支持者</string>
+    <string name="pref_purchase_donate_3">Footej 迷</string>
+    <string name="pref_purchase_donate_title">购买＆amp; 捐</string>
+    <string name="pref_summary_purchases">无</string>
+    <string name="pref_summary_support">发送反馈、获取支持或报告问题</string>
+    <string name="pref_title_antibanding">去网纹</string>
+    <string name="pref_title_audiosrc">音频来源</string>
+    <string name="pref_title_brightness">强制最大亮度</string>
+    <string name="pref_title_burst">连拍模式</string>
+    <string name="pref_title_burstmodeinterval">最小连拍间隔</string>
+    <string name="pref_title_burstmodemaximages">最大连拍张数</string>
+    <string name="pref_title_default_gallery">使用默认相册应用</string>
+    <string name="pref_title_fingerprint_swipe_down">向下滑动</string>
+    <string name="pref_title_fingerprint_swipe_left">向左滑动</string>
+    <string name="pref_title_fingerprint_swipe_right">向右滑动</string>
+    <string name="pref_title_fingerprint_swipe_up">向上推</string>
+    <string name="pref_title_flip_photos_front_camera">翻转前置摄像头照片</string>
+    <string name="pref_title_focus_priority">拍摄前先对焦</string>
+    <string name="pref_title_geolocation">存储地理信息</string>
+    <string name="pref_title_gestures_enable">启用</string>
+    <string name="pref_title_gestures_filmstrip_enable">幻灯片导航</string>
+    <string name="pref_title_gif_quality">动态 GIF 质量</string>
+    <string name="pref_title_infocommunity">Google+ 社区</string>
+    <string name="pref_title_infofbpage">Facebook 页面</string>
+    <string name="pref_title_jpegquality">JPEG 质量</string>
+    <string name="pref_title_legalinfo">法律信息</string>
+    <string name="pref_title_manualfocuszoom">手动放大对焦</string>
+    <string name="pref_title_maxduration">最大时长</string>
+    <string name="pref_title_photo_file_prefix">文件名前缀</string>
+    <string name="pref_title_photoratio">比例</string>
+    <string name="pref_title_photosize">大小</string>
+    <string name="pref_title_photosize_back">后置摄像头</string>
+    <string name="pref_title_photosize_front">前置摄像头</string>
+    <string name="pref_title_privacy">隐私政策</string>
+    <string name="pref_title_purchases">购买</string>
+    <string name="pref_title_rendervideosizes">渲染视频大小</string>
+    <string name="pref_title_show_histogram">显示直方图</string>
+    <string name="pref_title_shuttersounds">快门声音</string>
+    <string name="pref_title_stabilization">稳定拍摄</string>
+    <string name="pref_title_storage_photo">存储位置</string>
+    <string name="pref_title_storage_video">存储位置</string>
+    <string name="pref_title_support">反馈与支持</string>
+    <string name="pref_title_use_high_speed">需要时使用高速会话</string>
+    <string name="pref_title_use_high_speed_desc">在启用慢动作时, 将使用高速会话以获得最大的 fps。高速会话将覆盖所选录制大小并禁用手动控制。</string>
+    <string name="pref_title_video_file_prefix">文件名前缀</string>
+    <string name="pref_title_video_quality">视频质量</string>
+    <string name="pref_title_videosize_back">后置摄像头</string>
+    <string name="pref_title_videosize_front">前置摄像头</string>
+    <string name="pref_title_volumekey">音量键</string>
+    <string name="pref_title_website">官方网站</string>
+    <string name="processing_image_error">处理图像出错</string>
+    <string name="purchase_btn">购买</string>
+    <string name="purchase_donate_btn">购买＆amp; 捐</string>
+    <string name="purchase_error_msg">"购买出错。
+请稍后重试"</string>
+    <string name="purchase_sku_description">现在购买高级版以获取</string>
+    <string name="purchase_sku_description_purchased">您已购买高级版</string>
+    <string name="purchase_sku_details">"
+ • 低于 500 毫秒的连拍速度
+ • 超过 20 张的连拍张数
+ • 更佳 JPEG 质量
+ • 以 50Hz 和 60Hz 去网纹
+ • 超过 5 分钟的录像时长
+ • 图像直方图
+ • 高分辨率动态 GIF"</string>
+    <string name="purchase_success_msg">感谢购买！</string>
+    <string name="purchase_warning_message">"Footej Camera 高级版才可以使用此特性。
+
+"</string>
+    <string name="purchases">购买</string>
+    <string name="rate_later">稍后</string>
+    <string name="rate_message">"是否喜欢 Footej Camera？
+请发表您的看法！"</string>
+    <string name="rate_no">不，谢谢</string>
+    <string name="rate_ok">评分</string>
+    <string name="rate_title">前往 Play Store 评价 Footej！</string>
+    <string name="rendering_hdr">正在渲染 HDR 图像</string>
+    <string name="report">报告</string>
+    <string name="resolution">分辨率</string>
+    <string name="restart">重启应用</string>
+    <string name="sGeneralRecordingError">出现不可恢复的错误 ！请重新启动应用程序</string>
+    <string name="sOutOfMemoryRecordingError">该设备运行内存不足 ！请重新启动应用程序</string>
+    <string name="sPauseRecordingError">暂停录像失败！</string>
+    <string name="sPrepareRecordingError">无法准备录像文件！</string>
+    <string name="sResumeRecordingError">恢复录像失败！</string>
+    <string name="sSDCardWriteError">无法开始录像，或许 SD 卡未挂载</string>
+    <string name="sStartRecordingError">摄像头无法开始录像！</string>
+    <string name="sStopRecordingError">停止录像失败！</string>
+    <string name="saved_dng_path">DNG 存储路径：</string>
+    <string name="sdcard_storage">SD 卡</string>
+    <string name="section_format">Hello World 来自：%1$d</string>
+    <string name="settings">设置</string>
+    <string name="shortcut_disabled_gallery">相册</string>
+    <string name="shortcut_disabled_selfie">自拍</string>
+    <string name="shortcut_disabled_video">录像</string>
+    <string name="shortcut_long_label_gallery">显示相册</string>
+    <string name="shortcut_long_label_selfie">来张自拍</string>
+    <string name="shortcut_long_label_video">拍摄视频</string>
+    <string name="shortcut_short_label_gallery">相册</string>
+    <string name="shortcut_short_label_selfie">自拍</string>
+    <string name="shortcut_short_label_video">视频</string>
+    <string name="shutter_speed_option">快门速度选项</string>
+    <string name="support_intent_msg">发送邮件…</string>
+    <string name="support_title">我想…</string>
+    <string name="title_activity_purchase">购买</string>
+    <string name="title_activity_settings">设置</string>
+    <string name="title_sd_instructions">外置 SD 卡写入权限</string>
+    <string name="video_camera">录像</string>
+    <string name="yes">是</string>
+</resources>

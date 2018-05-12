@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.martindroidapps.camera" platformBuildVersionCode="23" platformBuildVersionName="6.0-2438415">
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="com.android.vending.BILLING"/>
+    <uses-permission android:name="android.permission.USE_FINGERPRINT"/>
+    <uses-feature android:name="android.hardware.camera"/>
+    <uses-feature android:name="android.hardware.camera.autofocus"/>
+    <uses-feature android:name="android.hardware.location" android:required="false"/>
+    <uses-feature android:name="android.hardware.location.gps" android:required="false"/>
+    <uses-feature android:name="android.hardware.location.network" android:required="false"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <permission android:name="com.martindroidapps.camera.permission.C2D_MESSAGE" android:protectionLevel="signature"/>
+    <uses-permission android:name="com.martindroidapps.camera.permission.C2D_MESSAGE"/>
+    <application android:allowBackup="false" android:hardwareAccelerated="true" android:icon="@mipmap/adaptiveproduct_camera" android:label="Camera" android:largeHeap="true" android:name="com.martindroidapps.camera.App" android:roundIcon="@mipmap/adaptiveproduct_camera_round" android:supportsRtl="false" android:theme="@style/AppTheme">
+        <activity android:clearTaskOnLaunch="true" android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:exported="true" android:label="@string/app_name" android:launchMode="standard" android:name="com.martindroidapps.camera.SplashActivity" android:resizeableActivity="false" android:screenOrientation="fullSensor" android:theme="@style/AppTheme.SplashScreen"/>
+        <activity android:clearTaskOnLaunch="true" android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:exported="true" android:label="Camera" android:launchMode="singleTask" android:name="com.martindroidapps.camera.CameraActivity" android:resizeableActivity="false" android:screenOrientation="fullSensor" android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.media.action.STILL_IMAGE_CAMERA"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.media.action.IMAGE_CAPTURE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.media.action.VIDEO_CAMERA"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.media.action.VIDEO_CAPTURE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.media.action.STILL_IMAGE_CAMERA_SECURE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <meta-data android:name="android.app.shortcuts" android:resource="@xml/shortcuts"/>
+        </activity>
+        <activity android:label="@string/title_activity_settings" android:name="com.martindroidapps.camera.SettingsActivity" android:parentActivityName="com.martindroidapps.camera.CameraActivity" android:resizeableActivity="false" android:theme="@style/AppTheme.SettingsActionBar">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.martindroidapps.camera.CameraActivity"/>
+        </activity>
+        <activity android:label="@string/title_activity_purchase" android:name="com.martindroidapps.camera.PurchaseActivity" android:parentActivityName="com.martindroidapps.camera.CameraActivity" android:resizeableActivity="false" android:screenOrientation="portrait" android:theme="@style/AppTheme.PurchaseActionBar">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.martindroidapps.camera.CameraActivity"/>
+        </activity>
+        <activity android:label="@string/title_activity_gallery" android:name="com.footej.gallery.GalleryActivity" android:parentActivityName="com.martindroidapps.camera.CameraActivity" android:theme="@style/AppTheme.NoActionBar">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.martindroidapps.camera.CameraActivity"/>
+        </activity>
+        <service android:exported="false" android:name="com.footej.services.ImageProcess.ImageProcessService"/>
+        <service android:name="com.footej.services.FingerPrint.FJFingerprintGesturesService" android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE" android:process=":fingerprintgestures">
+            <intent-filter>
+                <action android:name="android.accessibilityservice.AccessibilityService"/>
+            </intent-filter>
+            <meta-data android:name="android.accessibilityservice" android:resource="@xml/fjfingerprintgestureservice"/>
+        </service>
+        <provider android:authorities="com.martindroidapps.camera.fileprovider" android:exported="false" android:grantUriPermissions="true" android:name="android.support.v4.content.FileProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/provider_paths"/>
+        </provider>
+        <receiver android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementReceiver"/>
+        <receiver android:enabled="true" android:exported="true" android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver" android:permission="android.permission.INSTALL_PACKAGES">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER"/>
+            </intent-filter>
+        </receiver>
+        <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementService"/>
+        <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <receiver android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+                <category android:name="com.martindroidapps.camera"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdService">
+            <intent-filter android:priority="-500">
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+        <provider android:authorities="com.martindroidapps.camera.firebaseinitprovider" android:exported="false" android:initOrder="100" android:name="com.google.firebase.provider.FirebaseInitProvider"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <meta-data android:name="com.applisto.appcloner.name" android:value="Camera"/>
+        <meta-data android:name="com.applisto.appcloner.originalPackageName" android:value="Y29tLmZvb3Rlai5jYW1lcmE=\n"/>
+        <meta-data android:name="com.applisto.appcloner.cloneSource" android:value="installed_app"/>
+        <meta-data android:name="com.applisto.appcloner.cloneTimestamp" android:value="\ 1518151400091"/>
+        <meta-data android:name="com.applisto.appcloner.appClonerVersionName" android:value="1.4.0"/>
+        <meta-data android:name="com.applisto.appcloner.appClonerVersionCode" android:value="54"/>
+        <meta-data android:name="com.applisto.appcloner.originalSignatures" android:value="AQAAABwAAABhAG4AZAByAG8AaQBkAC4AYwBvAG4AdABlAG4AdAAuAHAAbQAuAFMAaQBnAG4AYQB0AHUAcgBlAAAAAABtAwAAMIIDaTCCAlGgAwIBAgIEGDLuCzANBgkqhkiG9w0BAQsFADBlMQswCQYDVQQGEwJHUjEPMA0GA1UECBMGR3JlZWNlMRUwEwYDVQQHEwxUaGVzc2Fsb25pa2kxEjAQBgNVBAoTCVNlbWFwaG9yZTEaMBgGA1UEAxMRU3RyYXRvcyBLYXJhZm90aXMwHhcNMTYwNDI4MTUwODU1WhcNNDEwNDIyMTUwODU1WjBlMQswCQYDVQQGEwJHUjEPMA0GA1UECBMGR3JlZWNlMRUwEwYDVQQHEwxUaGVzc2Fsb25pa2kxEjAQBgNVBAoTCVNlbWFwaG9yZTEaMBgGA1UEAxMRU3RyYXRvcyBLYXJhZm90aXMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCGpvO/p7erD6QLPjROLwYV/bDoOJWqU7k2r1/gN2o2M4bmqvF8Okpbo9AHlbprT3ibpm8Hr/iTE/BTOw80ozv9ILLEdckZ0jryz2F8CEN8stxmz+hzl1cHsX26i37xx0trfCkuXRGyUCiZk1GFWzF1wkksPBk2L2Fd8ZpmqIvMwLBFCk57AJMhdRrWK/14EzpZwGasRh+kRs5pkfsPYo5W0YOgrGccwr+Qx2aPMyedf60i2PmIKEzE8XjD00TutvjIjZ5Q/2g2/2fZUi6/2pdamwKhOjZa9gGJaPw0U4CIMXbtV2TwoF0ptm2WOjYfeo/P9CrFtH+16bGLYMee/EU5AgMBAAGjITAfMB0GA1UdDgQWBBRox8FPjElBnU9KvzaZUM4D0QjZajANBgkqhkiG9w0BAQsFAAOCAQEAZhITBXChcBIzLJZgHyuGOo818F8zdYIjO6vDOu6svPW6C3LP750zH/DVI9xspItrzjnbEa66L+2xjkbQgTYhOChNg1+OYCFx3+iY/oZiExSBnfL1KIxnoeNVswaKvHNtrhv4PJU7cy6+AKaKV/P087AXwnRHmTdg+8o7zB0lZLrEwP59Tv6wWxIPQ37wo+9GuoZMgY1Lkyb+MVyAe48NasANi8hqroO2Rz3xoSi2BzLkYYgMf2DC6Hky7KC25w3mpPfjCgDWPt5LGyBDfXSbEfLpp5dHGGFpwCBvjKQG7vCfX+2nva1hYZMdxkZH4ul1c2eQBhsgLAwvOyv3Nt9m7gAAAA=="/>
+        <provider android:authorities="com.martindroidapps.camera.com.applisto.appcloner.classes.DefaultProvider" android:initOrder="2147483647" android:name="com.applisto.appcloner.classes.DefaultProvider"/>
+        <activity android:exported="true" android:name="com.applisto.appcloner.classes.DefaultProvider$MyActivity"/>
+    </application>
+</manifest>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.martindroidapps.camera.Layouts.ViewFinderPanoramaLayout android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:layout_gravity="center_horizontal" android:id="@id/vfPanoramaTextView" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="DEBUG" />
+    <FrameLayout android:orientation="horizontal" android:id="@id/vfPanoramaPoints" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.martindroidapps.camera.Views.Panorama.PanoramaArrow android:id="@id/vfPanoramaArrow" android:visibility="visible" android:layout_width="@dimen/panorama_arrow" android:layout_height="@dimen/panorama_arrow" app:srcCompat="@drawable/ic_right_arrow" />
+    <com.martindroidapps.camera.Views.Panorama.PanoramaCircle android:id="@id/vfPanoramaCircle" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</com.martindroidapps.camera.Layouts.ViewFinderPanoramaLayout>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_antibanding_titles">
+        <item>Auto</item>
+        <item>50 Hz (Europe)</item>
+        <item>60 Hz (États-Unis)</item>
+        <item>Désactivé</item>
+    </string-array>
+    <string-array name="pref_array_support">
+        <item>Envoyer des commentaires</item>
+        <item>"Obtenir de l'aide"</item>
+        <item>Signaler un problème</item>
+    </string-array>
+    <string-array name="pref_audiosrc_titles">
+        <item>Source audio par défaut</item>
+        <item>Source audio du microphone</item>
+        <item>"La source audio du microphone est syntonisée pour l'enregistrement vidéo"</item>
+    </string-array>
+    <string-array name="pref_burstmodeinterval_titles">
+        <item>100 millisecondes</item>
+        <item>200 millisecondes</item>
+        <item>300 millisecondes</item>
+        <item>400 millisecondes</item>
+        <item>500 millisecondes</item>
+        <item>600 millisecondes</item>
+        <item>700 millisecondes</item>
+        <item>800 millisecondes</item>
+        <item>900 millisecondes</item>
+        <item>1000 millisecondes</item>
+        <item>2000 millisecondes</item>
+        <item>3000 millisecondes</item>
+        <item>4000 millisecondes</item>
+        <item>5000 millisecondes</item>
+    </string-array>
+    <string-array name="pref_burstmodemaximages_titles">
+        <item>10 images</item>
+        <item>15 images</item>
+        <item>20 images</item>
+        <item>25 images</item>
+        <item>30 images</item>
+        <item>40 images</item>
+        <item>50 images</item>
+        <item>60 images</item>
+        <item>70 images</item>
+        <item>80 images</item>
+        <item>90 images</item>
+        <item>100 images</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_back_titles">
+        <item>Aucun</item>
+        <item>Appareil photo</item>
+        <item>Caméra vidéo</item>
+        <item>Selfie</item>
+        <item>Galerie</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_titles">
+        <item>Aucun</item>
+        <item>Obturateur</item>
+        <item>Voir la pellicule</item>
+        <item>Photo / vidéo</item>
+        <item>Arrière / avant</item>
+    </string-array>
+    <string-array name="pref_gifquality_titles">
+        <item>Faible</item>
+        <item>Moyenne</item>
+        <item>Haute</item>
+    </string-array>
+    <string-array name="pref_jpegquality_titles">
+        <item>Faible</item>
+        <item>Moyenne</item>
+        <item>Standard</item>
+        <item>Haute</item>
+        <item>Excellente</item>
+    </string-array>
+    <string-array name="pref_maxduration_titles">
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>Illimitée</item>
+    </string-array>
+    <string-array name="pref_photosize_titles">
+        <item>Petit</item>
+        <item>Moyen</item>
+        <item>Grand</item>
+    </string-array>
+    <string-array name="pref_videoquality_titles">
+        <item>Faible (taille réduite)</item>
+        <item>Moyenne (taille normale)</item>
+        <item>Haute (fichier volumineux)</item>
+    </string-array>
+    <string-array name="pref_volumekey_titles">
+        <item>"Prendre une photo ou démarrer l'enregistrement"</item>
+        <item>Zoom avant/arrière</item>
+        <item>Régler le volume</item>
+    </string-array>
+</resources>

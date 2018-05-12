@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <stroke android:width="6.0dip" android:color="@android:color/white" />
+            <corners android:radius="34.0dip" />
+            <size android:height="@dimen/fab_btx_M2" android:width="@dimen/fab_btx_M2" />
+        </shape>
+    </item>
+</selector>

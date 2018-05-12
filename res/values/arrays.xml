@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_antibanding_titles">
+        <item>Auto</item>
+        <item>50Hz (Europe)</item>
+        <item>60Hz (USA)</item>
+        <item>Ki</item>
+    </string-array>
+    <string-array name="pref_antibanding_values">
+        <item>1</item>
+        <item>50</item>
+        <item>60</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="pref_array_support">
+        <item>Visszajelzést küldeni</item>
+        <item>Segítséget kérni</item>
+        <item>Problémát jelenteni</item>
+    </string-array>
+    <string-array name="pref_audiosrc_titles">
+        <item>Default audio source</item>
+        <item>Microphone audio source</item>
+        <item>Microphone audio source tuned for video recording</item>
+    </string-array>
+    <string-array name="pref_audiosrc_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="pref_burstmodeinterval_titles">
+        <item>100 milliseconds</item>
+        <item>200 milliseconds</item>
+        <item>300 milliseconds</item>
+        <item>400 milliseconds</item>
+        <item>500 milliseconds</item>
+        <item>600 milliseconds</item>
+        <item>700 milliseconds</item>
+        <item>800 milliseconds</item>
+        <item>900 milliseconds</item>
+        <item>1000 milliseconds</item>
+        <item>2000 milliseconds</item>
+        <item>3000 milliseconds</item>
+        <item>4000 milliseconds</item>
+        <item>5000 milliseconds</item>
+    </string-array>
+    <string-array name="pref_burstmodeinterval_values">
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+        <item>400</item>
+        <item>500</item>
+        <item>600</item>
+        <item>700</item>
+        <item>800</item>
+        <item>900</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+    </string-array>
+    <string-array name="pref_burstmodemaximages_titles">
+        <item>10 kép</item>
+        <item>15 kép</item>
+        <item>20 kép</item>
+        <item>25 kép</item>
+        <item>30 kép</item>
+        <item>40 kép</item>
+        <item>50 kép</item>
+        <item>60 kép</item>
+        <item>70 kép</item>
+        <item>80 kép</item>
+        <item>90 kép</item>
+        <item>100 kép</item>
+    </string-array>
+    <string-array name="pref_burstmodemaximages_values">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_back_titles">
+        <item>Nincs</item>
+        <item>Fotó kamera</item>
+        <item>Videó kamera</item>
+        <item>Szelfi</item>
+        <item>Galéria</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_back_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_titles">
+        <item>None</item>
+        <item>Shutter</item>
+        <item>Show filmstrip</item>
+        <item>Photo / Video</item>
+        <item>Back / Front</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="pref_gifquality_titles">
+        <item>Alacsony</item>
+        <item>Közepes</item>
+        <item>Magas</item>
+    </string-array>
+    <string-array name="pref_gifquality_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="pref_jpegquality_titles">
+        <item>Alacsony</item>
+        <item>Közepes</item>
+        <item>Normál</item>
+        <item>Magas</item>
+        <item>Nagyon magas</item>
+    </string-array>
+    <string-array name="pref_jpegquality_values">
+        <item>80</item>
+        <item>85</item>
+        <item>90</item>
+        <item>95</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="pref_maxduration_titles">
+        <item>1 perc</item>
+        <item>2 perc</item>
+        <item>5 perc</item>
+        <item>10 perc</item>
+        <item>15 perc</item>
+        <item>30 perc</item>
+        <item>Korlátlan</item>
+    </string-array>
+    <string-array name="pref_maxduration_values">
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="pref_photosize_titles">
+        <item>Kicsi</item>
+        <item>Közepes</item>
+        <item>Nagy</item>
+    </string-array>
+    <string-array name="pref_photosize_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="pref_videoquality_titles">
+        <item>Alacsony (Kicsi fájl méret)</item>
+        <item>Közepes (Normális fájl méret)</item>
+        <item>Magas (Nagy fájl méret)</item>
+    </string-array>
+    <string-array name="pref_videoquality_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="pref_volumekey_titles">
+        <item>Fotó készítése vagy videó indítása</item>
+        <item>Zoom be/ki</item>
+        <item>Hangerő fel/le</item>
+    </string-array>
+    <string-array name="pref_volumekey_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>		
+    </string-array>
+	<string-array name="pref_doubletap_titles">
+	    <item>Zoom</item>
+		<item>Kameraváltás</item>
+		<item>Nincs</item>
+	</string-array>
+    <string-array name="pref_doubletap_values">
+	    <item>1</item>
+		<item>2</item>
+		<item>0</item>
+	</string-array>
+</resources>

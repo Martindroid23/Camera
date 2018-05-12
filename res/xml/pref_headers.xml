@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preference-headers
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <header android:icon="@drawable/ic_camera_black_24px" android:layout="@layout/preference_with_margin" android:title="@string/pref_header_general" android:fragment="com.martindroidapps.camera.SettingsActivity$GeneralPreferenceFragment" />
+    <header android:icon="@drawable/ic_photo_camera_black_24px" android:layout="@layout/preference_with_margin" android:title="@string/pref_header_photo" android:fragment="com.martindroidapps.camera.SettingsActivity$PhotoPreferenceFragment" />
+    <header android:icon="@drawable/ic_videocam_black_24px" android:layout="@layout/preference_with_margin" android:title="@string/pref_header_video" android:fragment="com.martindroidapps.camera.SettingsActivity$VideoPreferenceFragment" />
+    <header android:icon="@drawable/ic_info_black_24px" android:layout="@layout/preference_with_margin" android:title="@string/pref_header_about" android:fragment="com.martindroidapps.camera.SettingsActivity$AboutPreferenceFragment" />
+</preference-headers>

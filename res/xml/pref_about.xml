@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:icon="@drawable/ic_photo_camera_black_24px" android:layout="@layout/preference_with_margin" android:title="@string/app_name" android:key="footej_title" android:summary="@string/app_summary" />
+    <Preference android:icon="@drawable/cart" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_purchases" android:key="about_purchases" android:summary="@string/pref_summary_purchases" />
+    <PreferenceScreen android:icon="@drawable/web" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_website" android:summary="@string/pref_summary_website">
+        <intent android:action="android.intent.action.VIEW" android:data="http://footej.camera" />
+    </PreferenceScreen>
+    <Preference android:icon="@drawable/web" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_author" android:summary="@string/pref_summary_author">
+        <intent android:action="android.intent.action.VIEW" android:data="http://www.semaphore.gr" />
+    </Preference>
+    <Preference android:icon="@drawable/ic_googleplus_24dp" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_infocommunity">
+        <intent android:action="android.intent.action.VIEW" android:data="https://plus.google.com/u/0/communities/109383179805132738074" />
+    </Preference>
+    <Preference android:icon="@drawable/ic_facebook_24dp" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_infofbpage">
+        <intent android:action="android.intent.action.VIEW" android:data="https://www.facebook.com/footej.camera/" />
+    </Preference>
+    <Preference android:icon="@drawable/quantum_ic_feedback_grey600_24" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_support" android:key="support" android:summary="@string/pref_summary_support" />
+    <PreferenceScreen android:icon="@drawable/ic_github_24dp" android:layout="@layout/preference_with_margin" android:title="@string/pref_licences">
+        <Preference android:layout="@layout/preference_with_margin" android:title="@string/pref_title_glide" android:key="glide" android:summary="@string/pref_summary_glide" />
+        <Preference android:layout="@layout/preference_with_margin" android:title="@string/pref_title_gif_encoder" android:key="gif_encoder" />
+        <Preference android:layout="@layout/preference_with_margin" android:title="@string/pref_title_opencv" android:key="opencv" />
+        <Preference android:layout="@layout/preference_with_margin" android:title="@string/pref_title_filmstrip" android:key="filmstrip" />
+        <Preference android:layout="@layout/preference_with_margin" android:title="@string/pref_title_verticalseekbar" android:key="vertical_seekbar" android:summary="@string/pref_summary_verticalseekbar" />
+        <Preference android:layout="@layout/preference_with_margin" android:title="@string/pref_title_google_icons" android:key="google_icons" android:summary="@string/pref_summary_google_icons">
+            <intent android:action="android.intent.action.VIEW" android:data="https://creativecommons.org/licenses/by/4.0/legalcode" />
+        </Preference>
+        <Preference android:layout="@layout/preference_with_margin" android:title="@string/pref_title_deviceyear" android:key="deviceyear" />
+    </PreferenceScreen>
+    <Preference android:icon="@drawable/gavel" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_legalinfo" android:key="legal" />
+    <Preference android:icon="@drawable/folder_lock" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_privacy">
+        <intent android:action="android.intent.action.VIEW" android:data="http://footej.com/FootejPrivacyPolicy.html" />
+    </Preference>
+</PreferenceScreen>

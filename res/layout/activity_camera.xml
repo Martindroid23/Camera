@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout android:fitsSystemWindows="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v4.widget.DrawerLayout android:id="@id/drawer_layout" android:fitsSystemWindows="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/app_bar_main" />
+        <FrameLayout android:layout_gravity="start" android:id="@id/nav_view" android:background="#00000000" android:fitsSystemWindows="false" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="?actionBarSize" />
+    </android.support.v4.widget.DrawerLayout>
+    <com.martindroidapps.camera.Views.ViewFinder.MainMenuButton android:layout_gravity="start|center|top" android:id="@id/main_menu_button" android:layout_width="@dimen/fab_btx_S" android:layout_height="@dimen/fab_btx_S" android:layout_marginTop="@dimen/fab_margin_S" android:scaleType="center" android:layout_marginStart="@dimen/fab_margin_S" />
+    <include layout="@layout/content_capture_preview" />
+</android.support.design.widget.CoordinatorLayout>

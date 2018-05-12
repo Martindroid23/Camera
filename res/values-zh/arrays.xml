@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_antibanding_titles">
+        <item>自动</item>
+        <item>50Hz (欧洲)</item>
+        <item>60Hz (美国)</item>
+        <item>关闭</item>
+    </string-array>
+    <string-array name="pref_array_support">
+        <item>发送反馈</item>
+        <item>获取支持</item>
+        <item>报告问题</item>
+    </string-array>
+    <string-array name="pref_audiosrc_titles">
+        <item>默认音频源</item>
+        <item>麦克风音频源</item>
+        <item>麦克风音频源适用于录像</item>
+    </string-array>
+    <string-array name="pref_burstmodeinterval_titles">
+        <item>100 毫秒</item>
+        <item>200 毫秒</item>
+        <item>300 毫秒</item>
+        <item>400 毫秒</item>
+        <item>500 毫秒</item>
+        <item>600 毫秒</item>
+        <item>700 毫秒</item>
+        <item>800 毫秒</item>
+        <item>900 毫秒</item>
+        <item>1000 毫秒</item>
+        <item>2000 毫秒</item>
+        <item>3000 毫秒</item>
+        <item>4000 毫秒</item>
+        <item>5000 毫秒</item>
+    </string-array>
+    <string-array name="pref_burstmodemaximages_titles">
+        <item>10 张</item>
+        <item>15 张</item>
+        <item>20 张</item>
+        <item>25 张</item>
+        <item>30 张</item>
+        <item>40 张</item>
+        <item>50 张</item>
+        <item>60 张</item>
+        <item>70 张</item>
+        <item>80 张</item>
+        <item>90 张</item>
+        <item>100 张</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_back_titles">
+        <item>无</item>
+        <item>相机拍照</item>
+        <item>视频摄像机</item>
+        <item>自拍</item>
+        <item>相册</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_titles">
+        <item>无</item>
+        <item>快门</item>
+        <item>放映幻灯片</item>
+        <item>照片 / 视频</item>
+        <item>回来/前</item>
+    </string-array>
+    <string-array name="pref_gifquality_titles">
+        <item>低</item>
+        <item>中</item>
+        <item>高</item>
+    </string-array>
+    <string-array name="pref_jpegquality_titles">
+        <item>低</item>
+        <item>中</item>
+        <item>标准</item>
+        <item>高</item>
+        <item>极高</item>
+    </string-array>
+    <string-array name="pref_maxduration_titles">
+        <item>1 分钟</item>
+        <item>2 分钟</item>
+        <item>5 分钟</item>
+        <item>10 分钟</item>
+        <item>15 分钟</item>
+        <item>30 分钟</item>
+        <item>无限制</item>
+    </string-array>
+    <string-array name="pref_photosize_titles">
+        <item>小</item>
+        <item>中</item>
+        <item>大</item>
+    </string-array>
+    <string-array name="pref_videoquality_titles">
+        <item>小 (小文件)</item>
+        <item>中 (中文件)</item>
+        <item>高 (大文件)</item>
+    </string-array>
+    <string-array name="pref_volumekey_titles">
+        <item>开始拍照或录像</item>
+        <item>放大 / 缩小</item>
+        <item>音量加 / 减</item>
+    </string-array>
+</resources>

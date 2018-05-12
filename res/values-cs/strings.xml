@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Přejít na plochu</string>
+    <string name="abc_action_bar_up_description">Přejít nahoru</string>
+    <string name="abc_action_menu_overflow_description">Více možností</string>
+    <string name="abc_action_mode_done">Hotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Zobrazit vše</string>
+    <string name="abc_activitychooserview_choose_application">Vybrat aplikaci</string>
+    <string name="abc_capital_off">VYPNUTO</string>
+    <string name="abc_capital_on">ZAPNUTO</string>
+    <string name="abc_search_hint">Vyhledat…</string>
+    <string name="abc_searchview_description_clear">Smazat dotaz</string>
+    <string name="abc_searchview_description_query">Vyhledávací dotaz</string>
+    <string name="abc_searchview_description_search">Hledat</string>
+    <string name="abc_searchview_description_submit">Odeslat dotaz</string>
+    <string name="abc_searchview_description_voice">Hlasové vyhledávání</string>
+    <string name="abc_shareactionprovider_share_with">Sdílet pomocí</string>
+    <string name="abc_shareactionprovider_share_with_application">Sdílet s aplikací %s</string>
+    <string name="abc_toolbar_collapse_description">Sbalit</string>
+    <string name="action_crop_image">Crop 1:1</string>
+    <string name="action_edit_intent_error">Není k dispozici aplikace pro úpravy tohoto média</string>
+    <string name="action_gallery_burst_extract">Uložit snímek</string>
+    <string name="action_gallery_create">Vytvořit Příběh</string>
+    <string name="action_gallery_create_gif">Vytvořit animovaný GIF</string>
+    <string name="action_gallery_delete">Smazat</string>
+    <string name="action_gallery_edit">Úpravy</string>
+    <string name="action_gallery_info">Informace</string>
+    <string name="action_gallery_share">Sdílet</string>
+    <string name="action_initial_scan">Přeskenovat knihovnu</string>
+    <string name="action_settings">Nastavení</string>
+    <string name="action_slider_show_gallery">Galerie</string>
+    <string name="app_name">Footej Camera</string>
+    <string name="backCameraNotFound">Zadní kamera nenalezena</string>
+    <string name="back_camera">Zadní fotoaparát</string>
+    <string name="burst_count_photos">%d Fotek</string>
+    <string name="burst_group_photos">Série snímků</string>
+    <string name="common_google_play_services_unknown_issue">Aplikace %1$s má potíže se službami Google Play. Zkuste to prosím znovu.</string>
+    <string name="compensation_option">Volba kompenzace</string>
+    <string name="compose_panorama">Zpracování Panorama</string>
+    <string name="countdown_option_caption">Odpočet</string>
+    <string name="criticalError">Nastala kritická chyba! Omlouváme se za vzniklé potíže. Prosím pošlete nám zprávu o problému za účelem vyřešení.</string>
+    <string name="criticalErrorRestart">Došlo k potížím se službou fotoaparát, pokud problém přetrvává zkuste zařízení restartovat.</string>
+    <string name="date_today">Dnes</string>
+    <string name="date_yesterday">Včera</string>
+    <string name="device_storage">Zařízení</string>
+    <string name="donations">Podporujte nás</string>
+    <string name="enable_gps">Chcete zapnout GPS?</string>
+    <string name="error_delete_file">Nelze vymazat soubor %s</string>
+    <string name="error_loading_thumb">Nelze načíst informace o tomto souboru</string>
+    <string name="error_loading_thumb_image">Nelze načíst náhled</string>
+    <string name="exposure_rs_pnl">expozice</string>
+    <string name="filechoose_cancel">Zrušit</string>
+    <string name="filechoose_reset">Resetovat</string>
+    <string name="filechoose_select">Vybrat</string>
+    <string name="filechooser_title">Vybrat místo uložení %s</string>
+    <string name="fingerprint_cat_app_background">Pozadí aplikace</string>
+    <string name="fingerprint_cat_app_foreground">Aplikace popředí</string>
+    <string name="fingerprint_service_description">"Když je na, může postoupit otisk gesta (přejeďte nahoru/dolů/doleva/doprava) předdefinovaných akcí v aplikaci aby snadno provádět základní operace. Když aplikace je v pozadí dostupné akce jsou: 
+ • Open Foto camera
+ • Open Video camera
+ • otevřené přední Foto camera
+ • Open Gallery
+When aplikace v popředí dostupné akce jsou: 
+ • • button
+ okenice Show filmstrip
+ • změnu Foto/Video mode
+ • změnu/zadní camera
+ • navigace v filmový pás"</string>
+    <string name="fingerprint_service_summary">Gesta pomocí otisků prstů</string>
+    <string name="focus_rs_pnl">vzdálenost</string>
+    <string name="frontCameraNotFound">Přední kamera nenalezena</string>
+    <string name="front_camera">Přední kamera</string>
+    <string name="gallery">Galerie</string>
+    <string name="gallery_confirm_delete_image_msg">Opravdu chcete vymazat tuto položku?</string>
+    <string name="gallery_confirm_delete_msg">Opravdu chcete vymyzat %d položku (položek)?</string>
+    <string name="gallery_confirm_export_image_msg">Opravdu chcete uložit tento snímek ze série?</string>
+    <string name="gallery_confirm_negative_btn">Zrušit</string>
+    <string name="gallery_confirm_positive_btn">OK</string>
+    <string name="gallery_confirm_title">Potvrzení</string>
+    <string name="gallery_crop_message">Oříznout obrázek</string>
+    <string name="gallery_delete_msg">Vymazáno %d položek</string>
+    <string name="gallery_extract_error">Chyba při ukládání %s ze série snímků</string>
+    <string name="gallery_extract_msg">Uložen %s ze série snímků</string>
+    <string name="gallery_gif_limit_msg">Vyberte prosím alespoň 2 fotografie</string>
+    <string name="gallery_gif_message">Vytváření animovaného GIFu</string>
+    <string name="gallery_share_msg">Sdílet média..</string>
+    <string name="gallery_slider_delete_msg">Vymazáno %s</string>
+    <string name="gallery_slider_deleted_msg">Vymazáno</string>
+    <string name="gallery_undo_delete">ZPĚT</string>
+    <string name="location_manager">Správce umístění</string>
+    <string name="manual_focus_option">Manuální ostření</string>
+    <string name="manualfocuszoom_toast">Je povoleno ruční zaostřování zoom</string>
+    <string name="media_info_duration">Délka: %s</string>
+    <string name="media_info_image_title">Informace o snímku</string>
+    <string name="media_info_video_title">Informace o videu</string>
+    <string name="miscellaneous">Různé</string>
+    <string name="msg_permissions_sd">Oprávnění nebylo uděleno. Prosím zkuste znovu</string>
+    <string name="msg_sd_instructions">Vyberte prosím kořenový adresář externí SD karty pro udělení přístupu pro zápis.</string>
+    <string name="no">Ne</string>
+    <string name="no_media_found">Galerie je prázdná</string>
+    <string name="notification_channel_description">Oznámení týkající se služby pro zpracování obrazu</string>
+    <string name="notification_channel_name">Footej zpracování služby oznámení</string>
+    <string name="permission_dialog_message">"Aplikace požaduje následující oprávnění k normálnímu běhu.
+Prosím restartujte aplikaci a udělte oprávnění když se objeví výzva nebo povolte oprávnění v nastavení zařízení.
+
+%s"</string>
+    <string name="permission_dialog_title">Požadovaná oprávnění</string>
+    <string name="photography_camera">Fotoaparát</string>
+    <string name="pref_description_brightness">Nastavit maxmimální jas při focení a nahrávání</string>
+    <string name="pref_description_default_gallery">Pomocí aplikace Galerie systému namísto vnitřní</string>
+    <string name="pref_description_geolocation">Ukládat GPS polohu u fotek a videí</string>
+    <string name="pref_description_gesture_enable">Povolit usnadnění služby</string>
+    <string name="pref_description_gesture_filmstrip_enable">Povolení navigace v filmový pás</string>
+    <string name="pref_description_manualfocuszoom">Náhled přiblížíte detail předmětu</string>
+    <string name="pref_description_shuttersounds">Povolení nebo zakázání zvuku závěrky</string>
+    <string name="pref_description_stabilization">Povolit stabilizaci, pokud je podporována</string>
+    <string name="pref_header_about">O aplikaci</string>
+    <string name="pref_header_general">Obecné nastavení</string>
+    <string name="pref_header_photo">Nastavení fotoaparátu</string>
+    <string name="pref_header_video">Nastavení videa</string>
+    <string name="pref_licences">Licence Open source</string>
+    <string name="pref_purchase_donate_1">Staňte se stoupencem</string>
+    <string name="pref_purchase_donate_2">Podporovatel pro vývojáře</string>
+    <string name="pref_purchase_donate_3">Footej nadšenec</string>
+    <string name="pref_purchase_donate_title">Nákup &amp; amp; Darovat</string>
+    <string name="pref_summary_purchases">žádné</string>
+    <string name="pref_summary_support">Odeslat názor, získat podporu nebo nahlásit problém</string>
+    <string name="pref_title_antibanding">Antibanding</string>
+    <string name="pref_title_audiosrc">Zdroj zvuku</string>
+    <string name="pref_title_brightness">Maximální jas</string>
+    <string name="pref_title_burst">Sériové snímání</string>
+    <string name="pref_title_burstmodeinterval">Minimální interval</string>
+    <string name="pref_title_burstmodemaximages">Maximální počet snímků</string>
+    <string name="pref_title_default_gallery">Použít výchozí galerie app</string>
+    <string name="pref_title_fingerprint_swipe_down">Posunout dolů</string>
+    <string name="pref_title_fingerprint_swipe_left">Přetáhněte prst doleva</string>
+    <string name="pref_title_fingerprint_swipe_right">Přetáhněte prst vpravo</string>
+    <string name="pref_title_fingerprint_swipe_up">Přejetí nahoru</string>
+    <string name="pref_title_flip_photos_front_camera">Otáčet snímky z přední kamery</string>
+    <string name="pref_title_focus_priority">Priorita zaostření před vyfocení snímku</string>
+    <string name="pref_title_geolocation">Ukládat polohu</string>
+    <string name="pref_title_gestures_enable">Povolit</string>
+    <string name="pref_title_gestures_filmstrip_enable">Filmový pás navigace</string>
+    <string name="pref_title_gif_quality">Kvalita animovaného GIFu</string>
+    <string name="pref_title_infocommunity">Google+ komunita</string>
+    <string name="pref_title_infofbpage">Facebook stránka</string>
+    <string name="pref_title_jpegquality">Kvalita JPEG</string>
+    <string name="pref_title_legalinfo">Právní informace</string>
+    <string name="pref_title_manualfocuszoom">Manuální zaostřování zoom</string>
+    <string name="pref_title_maxduration">Maximální doba trvání</string>
+    <string name="pref_title_photo_file_prefix">Předpona souboru</string>
+    <string name="pref_title_photoratio">Poměr</string>
+    <string name="pref_title_photosize">Velikost</string>
+    <string name="pref_title_photosize_back">Zadní fotoaparát</string>
+    <string name="pref_title_photosize_front">Přední kameera</string>
+    <string name="pref_title_privacy">Zásady ochrany soukromí</string>
+    <string name="pref_title_purchases">Nákupy</string>
+    <string name="pref_title_rendervideosizes">Vykreslení velikosti videa</string>
+    <string name="pref_title_show_histogram">Zobrazit histogram</string>
+    <string name="pref_title_shuttersounds">Zvuk závěrky</string>
+    <string name="pref_title_stabilization">Stabilizace</string>
+    <string name="pref_title_storage_photo">Místo uložení</string>
+    <string name="pref_title_storage_video">Místo uložení</string>
+    <string name="pref_title_support">Zpětná vazba &amp; Podpora</string>
+    <string name="pref_title_use_high_speed">Použijte vysokorychlostní relace v případě potřeby</string>
+    <string name="pref_title_use_high_speed_desc">Když je povoleno slow motion vysokorychlostní session se používá s cílem získat maximální fps. Vysoká rychlost relaci přepíše zvolenou nahrávku velikost a zakáže pro ruční ovládání.</string>
+    <string name="pref_title_video_file_prefix">Předpona souboru</string>
+    <string name="pref_title_video_quality">Kvalita videa</string>
+    <string name="pref_title_videosize_back">Zadní kamera</string>
+    <string name="pref_title_videosize_front">Přední kamera</string>
+    <string name="pref_title_volumekey">Tlačítka hlasitosti</string>
+    <string name="pref_title_website">Webová stránka</string>
+    <string name="processing_image_error">Chyba zpracování obrazu</string>
+    <string name="purchase_btn">Nákup</string>
+    <string name="purchase_donate_btn">Nákup &amp; amp; Darovat</string>
+    <string name="purchase_error_msg">"Nastal problém během nákupu.
+Prosím vyzkoušejte znovu později"</string>
+    <string name="purchase_sku_description">Koupit nyní Premium balíček k získání</string>
+    <string name="purchase_sku_description_purchased">Již jste si zakoupili Premium balíček</string>
+    <string name="purchase_sku_details">"
+ • Interval focení v sériovém snímání pod 500ms
+ • Více jak 20 fotek v sériovém snímání
+ • Lepší JPEG kvalita
+ • Antibanding v 50Hz a 60Hz
+ • Maximální délka videa přes 5 minut
+ • Histogram snímku
+ • Vysoké rozlišení animovaného GIFu"</string>
+    <string name="purchase_success_msg">Děkujeme za váš nákup!</string>
+    <string name="purchase_warning_message">"Balíček Footej Camera Premium je potřebný k odemčení této funkce.
+
+"</string>
+    <string name="purchases">Nákupy</string>
+    <string name="rate_later">Později</string>
+    <string name="rate_message">"Užíváte si Footej Camera?
+Ohodno\u009dťte ji prosím!"</string>
+    <string name="rate_no">Ne, děkuji</string>
+    <string name="rate_ok">Ohodnotit</string>
+    <string name="rate_title">Ohodno\u009dťte Footej v Play Storu!</string>
+    <string name="rendering_hdr">Obraz HDR vykreslování</string>
+    <string name="report">Hlášení</string>
+    <string name="resolution">Rozlišení</string>
+    <string name="restart">Restartovat</string>
+    <string name="sGeneralRecordingError">Došlo k neopravitelné chybě! Prosím restartujte aplikaci</string>
+    <string name="sOutOfMemoryRecordingError">Zařízení k vyčerpání paměti! Prosím restartujte aplikaci</string>
+    <string name="sPauseRecordingError">Nelze pozastavit nahrávání!</string>
+    <string name="sPrepareRecordingError">Záznam souboru nemůže být připraven!</string>
+    <string name="sResumeRecordingError">Nelze pokračovat v nahrávání!</string>
+    <string name="sSDCardWriteError">Nelze začít nahrávat, možná chyba s SD kartou</string>
+    <string name="sStartRecordingError">Nelze začít nahrávat!</string>
+    <string name="sStopRecordingError">Nahrávání nelze zastavit!</string>
+    <string name="saved_dng_path">Uložená DNG cesta:</string>
+    <string name="sdcard_storage">SD karta</string>
+    <string name="search_menu_title">Hledat</string>
+    <string name="section_format">Vítej světe, ze sekce: %1$d</string>
+    <string name="settings">Nastavení</string>
+    <string name="shortcut_disabled_gallery">Galerie</string>
+    <string name="shortcut_disabled_selfie">Selfie</string>
+    <string name="shortcut_disabled_video">Video kamera</string>
+    <string name="shortcut_long_label_gallery">Ukázat galerie</string>
+    <string name="shortcut_long_label_selfie">Trvat selfie</string>
+    <string name="shortcut_long_label_video">Vytvořit video</string>
+    <string name="shortcut_short_label_gallery">Galerie</string>
+    <string name="shortcut_short_label_selfie">Selfie</string>
+    <string name="shortcut_short_label_video">Video</string>
+    <string name="shutter_speed_option">Volba rychlosti závěrky</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="support_intent_msg">Poslat email...</string>
+    <string name="support_title">Chci...</string>
+    <string name="title_activity_purchase">Nákupy</string>
+    <string name="title_activity_settings">Nastavení</string>
+    <string name="title_sd_instructions">Přístup pro zápis do externí SD karty</string>
+    <string name="video_camera">Video</string>
+    <string name="yes">Ano</string>
+</resources>

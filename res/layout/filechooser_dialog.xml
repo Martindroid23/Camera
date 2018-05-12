@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/filechooser_container" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RadioGroup android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/rgStorage" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <RadioButton android:id="@id/radio_device" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/device_storage" android:layout_weight="1.0" android:onClick="onRadioButtonClicked" />
+        <RadioButton android:id="@id/radio_sdcard" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sdcard_storage" android:layout_weight="1.0" android:onClick="onRadioButtonClicked" />
+    </RadioGroup>
+    <LinearLayout android:id="@id/linearLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/rgStorage">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="center_vertical" android:id="@id/tvSelectedDirectory" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Medium Text" />
+    </LinearLayout>
+    <ListView android:id="@id/dir_listview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/linearLayout" />
+</RelativeLayout>

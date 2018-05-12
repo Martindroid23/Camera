@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@id/action_slider_gallery" android:visible="true" android:orderInCategory="100" android:title="@string/action_slider_show_gallery" app:showAsAction="always" />
+    <item android:icon="@drawable/ic_gif_white_24px" android:id="@id/action_slider_create_gif" android:visible="false" android:orderInCategory="50" android:title="@string/action_gallery_create_gif" app:showAsAction="always" />
+    <item android:icon="@drawable/ic_unarchive_white_24px" android:id="@id/action_slider_burst_extract" android:visible="false" android:orderInCategory="50" android:title="@string/action_gallery_burst_extract" app:showAsAction="always" />
+    <item android:icon="@drawable/ic_crop_square_white_24px" android:id="@id/action_crop_image" android:visible="false" android:orderInCategory="60" android:title="@string/action_crop_image" app:showAsAction="always" />
+</menu>

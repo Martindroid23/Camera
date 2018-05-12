@@ -1,0 +1,30 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Camera2_2.2.5 build 164.apk
+compressionType: false
+doNotCompress:
+- arsc
+- otf
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '27'
+sharedLibrary: false
+unknownFiles:
+  build-data.properties: '8'
+  cloneSettings.json: '8'
+  protobuf.meta: '8'
+  error_prone/Annotations.gwt.xml: '8'
+  jsr305_annotations/Jsr305_annotations.gwt.xml: '8'
+  third_party/java_src/error_prone/project/annotations/Annotations.gwt.xml: '8'
+  third_party/java_src/error_prone/project/annotations/Google_internal.gwt.xml: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.1
+versionInfo:
+  versionCode: '20167'
+  versionName: 2.2.6 build 167

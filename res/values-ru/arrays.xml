@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_antibanding_titles">
+        <item>Авто</item>
+        <item>50Гц (Европа)</item>
+        <item>60Гц (США)</item>
+        <item>Откл.</item>
+    </string-array>
+    <string-array name="pref_array_support">
+        <item>Отправить пожелание</item>
+        <item>Получить консультацию</item>
+        <item>Сообщить о проблеме</item>
+    </string-array>
+    <string-array name="pref_audiosrc_titles">
+        <item>Источник звука по умолчанию</item>
+        <item>Источник звука с микрофона</item>
+        <item>Источник звука микрофона настроенный для записи видео</item>
+    </string-array>
+    <string-array name="pref_burstmodeinterval_titles">
+        <item>100 миллисекунд</item>
+        <item>200 миллисекунд</item>
+        <item>300 миллисекунд</item>
+        <item>400 миллисекунд</item>
+        <item>500 миллисекунд</item>
+        <item>600 миллисекунд</item>
+        <item>700 миллисекунд</item>
+        <item>800 миллисекунд</item>
+        <item>900 миллисекунд</item>
+        <item>1000 миллисекунд</item>
+        <item>2000 миллисекунд</item>
+        <item>3000 миллисекунд</item>
+        <item>4000 миллисекунд</item>
+        <item>5000 миллисекунд</item>
+    </string-array>
+    <string-array name="pref_burstmodemaximages_titles">
+        <item>10 изображений</item>
+        <item>15 изображений</item>
+        <item>20 изображений</item>
+        <item>25 изображений</item>
+        <item>30 изображений</item>
+        <item>40 изображений</item>
+        <item>50 изображений</item>
+        <item>60 изображений</item>
+        <item>70 изображений</item>
+        <item>80 изображений</item>
+        <item>90 изображений</item>
+        <item>100 изображений</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_back_titles">
+        <item>Нет</item>
+        <item>Фото камеры</item>
+        <item>Видео камеры</item>
+        <item>Селф</item>
+        <item>Галерея</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_titles">
+        <item>Нет</item>
+        <item>Затвор</item>
+        <item>Показать Диафильм</item>
+        <item>Фото / видео</item>
+        <item>Назад / фронт</item>
+    </string-array>
+    <string-array name="pref_gifquality_titles">
+        <item>Низкое</item>
+        <item>Среднее</item>
+        <item>Высокое</item>
+    </string-array>
+    <string-array name="pref_jpegquality_titles">
+        <item>Низкое</item>
+        <item>Среднее</item>
+        <item>Стандартное</item>
+        <item>Высокое</item>
+        <item>Отличное</item>
+    </string-array>
+    <string-array name="pref_maxduration_titles">
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>Без ограничения</item>
+    </string-array>
+    <string-array name="pref_photosize_titles">
+        <item>Маленькое</item>
+        <item>Среднее</item>
+        <item>Большое</item>
+    </string-array>
+    <string-array name="pref_videoquality_titles">
+        <item>Низкое (Маленький файл)</item>
+        <item>Среднее (Нормальный файл)</item>
+        <item>Высокое (Большой файл)</item>
+    </string-array>
+    <string-array name="pref_volumekey_titles">
+        <item>Затвор</item>
+        <item>Увеличение</item>
+        <item>Громкость</item>
+    </string-array>
+</resources>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_antibanding_titles">
+        <item>Automat</item>
+        <item>50Hz (Europa)</item>
+        <item>60Hz (SUA)</item>
+        <item>Oprit</item>
+    </string-array>
+    <string-array name="pref_array_support">
+        <item>Trimiteți feedback</item>
+        <item>Obțineți asistență</item>
+        <item>Raportaţi o problemă</item>
+    </string-array>
+    <string-array name="pref_audiosrc_titles">
+        <item>Sursă audio implicită</item>
+        <item>Microfon</item>
+        <item>Microfon reglat pentru înregistrare video</item>
+    </string-array>
+    <string-array name="pref_burstmodeinterval_titles">
+        <item>100 milisecunde</item>
+        <item>200 milisecunde</item>
+        <item>300 milisecunde</item>
+        <item>400 milisecunde</item>
+        <item>500 milisecunde</item>
+        <item>600 milisecunde</item>
+        <item>700 milisecunde</item>
+        <item>800 milisecunde</item>
+        <item>900 milisecunde</item>
+        <item>1000 milisecunde</item>
+        <item>2000 milisecunde</item>
+        <item>3000 milisecunde</item>
+        <item>4000 milisecunde</item>
+        <item>5000 milisecunde</item>
+    </string-array>
+    <string-array name="pref_burstmodemaximages_titles">
+        <item>10 imagini</item>
+        <item>15 imagini</item>
+        <item>20 de imagini</item>
+        <item>25 de imagini</item>
+        <item>30 de imagini</item>
+        <item>40 de imagini</item>
+        <item>50 de imagini</item>
+        <item>60 de imagini</item>
+        <item>70 imagini</item>
+        <item>80 imagini</item>
+        <item>90 imagini</item>
+        <item>100 imagini</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_back_titles">
+        <item>Nimic</item>
+        <item>Cameră foto</item>
+        <item>Cameră video</item>
+        <item>Selfie</item>
+        <item>Galerie</item>
+    </string-array>
+    <string-array name="pref_fingerprint_actions_titles">
+        <item>Nimic</item>
+        <item>Obturator</item>
+        <item>Afișare diafilm</item>
+        <item>Foto / Video</item>
+        <item>Spate / Față</item>
+    </string-array>
+    <string-array name="pref_gifquality_titles">
+        <item>Joasă</item>
+        <item>Medie</item>
+        <item>Înaltă</item>
+    </string-array>
+    <string-array name="pref_jpegquality_titles">
+        <item>Joasă</item>
+        <item>Medie</item>
+        <item>Standard</item>
+        <item>Înaltă</item>
+        <item>Excelentă</item>
+    </string-array>
+    <string-array name="pref_maxduration_titles">
+        <item>1 minut</item>
+        <item>2 minute</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>15 minute</item>
+        <item>30 de minute</item>
+        <item>Nelimitat</item>
+    </string-array>
+    <string-array name="pref_photosize_titles">
+        <item>Mic</item>
+        <item>Mediu</item>
+        <item>Mare</item>
+    </string-array>
+    <string-array name="pref_videoquality_titles">
+        <item>Scăzută (dimensiune mică a fișierului)</item>
+        <item>Medie (dimensiune normală a fișierului)</item>
+        <item>Ridicată (dimensiune mare a fișierului)</item>
+    </string-array>
+    <string-array name="pref_volumekey_titles">
+        <item>Fotografiere sau înregistrare video</item>
+        <item>Mărire/Micșorare</item>
+        <item>Volum sus/jos</item>
+    </string-array>
+</resources>

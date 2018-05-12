@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
+    <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
+    <string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
+    <string name="abc_action_mode_done">Xong</string>
+    <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
+    <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
+    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_search_hint">Tìm kiếm…</string>
+    <string name="abc_searchview_description_clear">Xóa truy vấn</string>
+    <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
+    <string name="abc_searchview_description_search">Tìm kiếm</string>
+    <string name="abc_searchview_description_submit">Gửi truy vấn</string>
+    <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+    <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
+    <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
+    <string name="abc_toolbar_collapse_description">Thu gọn</string>
+    <string name="action_crop_image">Cắt 1:1</string>
+    <string name="action_edit_intent_error">Không phải là các ứng dụng có sẵn để chỉnh sửa các tập tin này</string>
+    <string name="action_gallery_burst_extract">Giải nén</string>
+    <string name="action_gallery_create">Tạo ra câu chuyện</string>
+    <string name="action_gallery_create_gif">Tạo ảnh GIF</string>
+    <string name="action_gallery_delete">Xoá</string>
+    <string name="action_gallery_edit">Chỉnh sửa</string>
+    <string name="action_gallery_info">Thông tin</string>
+    <string name="action_gallery_share">Chia sẻ</string>
+    <string name="action_initial_scan">Quét lại thư viện</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="action_slider_show_gallery">Thư viện ảnh</string>
+    <string name="app_name">Footej Camera</string>
+    <string name="backCameraNotFound">Không tìm thấy camera sau</string>
+    <string name="back_camera">Camera sau</string>
+    <string name="burst_count_photos">%d hình ảnh</string>
+    <string name="burst_group_photos">Burst nhóm</string>
+    <string name="common_google_play_services_unknown_issue">%1$s đang gặp sự cố với các dịch vụ của Google Play. Hãy thử lại.</string>
+    <string name="compensation_option">Tùy chọn bồi thường</string>
+    <string name="compose_panorama">Xử lý Panorama</string>
+    <string name="countdown_option_caption">Đếm ngược</string>
+    <string name="criticalError">Lỗi nghiêm trọng đã xảy ra! Chúng tôi rất xin lỗi vì sự bất tiện này. Xin vui lòng gửi cho chúng tôi một báo cáo vấn đề để điều tra này.</string>
+    <string name="criticalErrorRestart">Có sự cố với dịch vụ camera, nếu sự cố vẫn còn, hãy thử khởi động lại thiết bị của bạn.</string>
+    <string name="date_today">Hôm nay</string>
+    <string name="date_yesterday">Hôm qua</string>
+    <string name="device_storage">Thiết bị</string>
+    <string name="donations">Tiếp tục hỗ trợ chúng tôi</string>
+    <string name="enable_gps">Bạn có muốn bật GPS?</string>
+    <string name="error_delete_file">Không thể xóa file %s</string>
+    <string name="error_loading_thumb">Không thể tải phương tiện thông tin cho tệp này</string>
+    <string name="error_loading_thumb_image">Không thể nạp hình thu nhỏ của tệp này</string>
+    <string name="exposure_rs_pnl">phơi sáng</string>
+    <string name="filechoose_cancel">Hủy bỏ</string>
+    <string name="filechoose_reset">Thiết lập lại</string>
+    <string name="filechoose_select">Chọn</string>
+    <string name="filechooser_title">Chọn thư mục lưu trữ %s</string>
+    <string name="fingerprint_cat_app_background">Ứng dụng nền</string>
+    <string name="fingerprint_cat_app_foreground">Ứng dụng foreground</string>
+    <string name="fingerprint_service_description">"Khi đó, bạn có thể chỉ định vân tay cử chỉ (swipe lên/xuống/trái/phải) để được xác định trước các hành động trong các ứng dụng để dễ dàng thực hiện các hoạt động cơ bản. Khi các ứng dụng trong nền hành động có sẵn là: 
+ • mở ảnh camera
+ • mở Video camera
+ • mở cửa trước ảnh camera
+ • Open Gallery
+When các ứng dụng là trong nền trước các hành động có sẵn là: 
+ • Shutter button
+ • Hiển thị filmstrip
+ • thay đổi hình ảnh/Video mode
+ • thay đổi sau/phía trước camera
+ • chuyển hướng trong cuộn phim"</string>
+    <string name="fingerprint_service_summary">Cử chỉ vân tay</string>
+    <string name="focus_rs_pnl">khoảng cách</string>
+    <string name="frontCameraNotFound">Không tìm thấy mặt trước của máy ảnh</string>
+    <string name="front_camera">Camera trước</string>
+    <string name="gallery">Thư viện ảnh</string>
+    <string name="gallery_confirm_delete_image_msg">Bạn có chắc chắn muốn xóa đối tượng này?</string>
+    <string name="gallery_confirm_delete_msg">Bạn có chắc bạn muốn xoá các mục(s) %d?</string>
+    <string name="gallery_confirm_export_image_msg">Bạn có chắc bạn muốn xuất hình ảnh này?</string>
+    <string name="gallery_confirm_negative_btn">Hủy bỏ</string>
+    <string name="gallery_confirm_positive_btn">Ok</string>
+    <string name="gallery_confirm_title">Xác nhận</string>
+    <string name="gallery_crop_message">Cắt hình ảnh</string>
+    <string name="gallery_delete_msg">Đã xóa %d mục(s)</string>
+    <string name="gallery_extract_error">Lỗi giải nén %s hình ảnh burst</string>
+    <string name="gallery_extract_msg">Chiếc xuất %s hình ảnh burst</string>
+    <string name="gallery_gif_limit_msg">Vui lòng chọn ít nhất 2 hình ảnh</string>
+    <string name="gallery_gif_message">Xây dựng GIF động</string>
+    <string name="gallery_share_msg">Chia sẻ phương tiện đến..</string>
+    <string name="gallery_slider_delete_msg">%s đã bị xoá</string>
+    <string name="gallery_slider_deleted_msg">Đã xóa</string>
+    <string name="gallery_undo_delete">HOÀN TÁC</string>
+    <string name="location_manager">Quản lý vị trí</string>
+    <string name="manual_focus_option">Tùy chọn tiêu điểm thủ công</string>
+    <string name="manualfocuszoom_toast">Đã kích hoạt lấy nét bằng tay</string>
+    <string name="media_info_duration">Thời lượng: %s</string>
+    <string name="media_info_image_title">Thông tin hình ảnh</string>
+    <string name="media_info_video_title">Thông tin video</string>
+    <string name="miscellaneous">Hỗn hợp</string>
+    <string name="msg_permissions_sd">Không được cấp quyền truy cập. Xin vui lòng thử lại</string>
+    <string name="msg_sd_instructions">Hãy chọn thư mục gốc của bên ngoài SD để cấp quyền truy cập ghi</string>
+    <string name="no">Không</string>
+    <string name="no_media_found">Bộ sưu tập trống</string>
+    <string name="notification_channel_description">Thông báo về dịch vụ xử lý hình ảnh</string>
+    <string name="notification_channel_name">Thông báo dịch vụ xử lý Footej</string>
+    <string name="permission_dialog_message">"Ứng dụng yêu cầu quyền truy cập dưới đây để hoạt động bình thường. 
+Hãy khởi động lại ứng dụng và cấp quyền truy cập khi xuất hiện dấu nhắc hoặc cấp quyền truy cập từ cài đặt trong điện thoại của bạn.
+
+%s"</string>
+    <string name="permission_dialog_title">Các quyền yêu cầu</string>
+    <string name="photography_camera">Camera chụp ảnh</string>
+    <string name="pref_description_brightness">Tăng độ sáng màn hình tối đa khi xem trước máy ảnh</string>
+    <string name="pref_description_default_gallery">Sử dụng hệ thống thư viện ứng dụng thay vì nội bộ</string>
+    <string name="pref_description_geolocation">Lưu vị trí địa lý trên video và hình ảnh</string>
+    <string name="pref_description_gesture_enable">Kích hoạt dịch vụ khả năng truy cập</string>
+    <string name="pref_description_gesture_filmstrip_enable">Sử điều hướng trong cuộn phim</string>
+    <string name="pref_description_manualfocuszoom">Bản xem trước phóng to để thu phóng đối tượng của bạn</string>
+    <string name="pref_description_shuttersounds">Bật hoặc Tắt Âm thanh màn trập</string>
+    <string name="pref_description_stabilization">Cho phép ổn định nếu điều này hỗ trợ</string>
+    <string name="pref_header_about">Thông tin</string>
+    <string name="pref_header_general">Chung</string>
+    <string name="pref_header_photo">Hình ảnh</string>
+    <string name="pref_header_video">Video</string>
+    <string name="pref_licences">Giấy phép Mã nguồn mở</string>
+    <string name="pref_purchase_donate_1">Trở thành một người đi theo</string>
+    <string name="pref_purchase_donate_2">Ủng hộ phát triển</string>
+    <string name="pref_purchase_donate_3">Footej đam mê</string>
+    <string name="pref_purchase_donate_title">Mua &amp; tặng</string>
+    <string name="pref_summary_purchases">không</string>
+    <string name="pref_summary_support">Gửi phản hồi, nhận hỗ trợ hoặc báo cáo vấn đề</string>
+    <string name="pref_title_antibanding">Chống rung</string>
+    <string name="pref_title_audiosrc">Nguồn âm thanh</string>
+    <string name="pref_title_brightness">Bắt buộc độ sáng tối đa</string>
+    <string name="pref_title_burst">Chế độ chụp nhanh</string>
+    <string name="pref_title_burstmodeinterval">Khoảng thời gian tối thiểu</string>
+    <string name="pref_title_burstmodemaximages">Ảnh chụp tối đa</string>
+    <string name="pref_title_default_gallery">Sử dụng ứng dụng thư viện mặc định</string>
+    <string name="pref_title_fingerprint_swipe_down">Vuốt xuống</string>
+    <string name="pref_title_fingerprint_swipe_left">Vuốt sang trái</string>
+    <string name="pref_title_fingerprint_swipe_right">Vuốt sang phải</string>
+    <string name="pref_title_fingerprint_swipe_up">Vuốt lên</string>
+    <string name="pref_title_flip_photos_front_camera">Lật hình ảnh từ camera trước</string>
+    <string name="pref_title_focus_priority">Ưu tiên tập trung trước khi chụp ảnh</string>
+    <string name="pref_title_geolocation">Vị trí Lưu</string>
+    <string name="pref_title_gestures_enable">Kích hoạt</string>
+    <string name="pref_title_gestures_filmstrip_enable">Cuộn phim Menu</string>
+    <string name="pref_title_gif_quality">Chất lượng ảnh GIF</string>
+    <string name="pref_title_infocommunity">Cộng đồng G+</string>
+    <string name="pref_title_infofbpage">Trang Facebook</string>
+    <string name="pref_title_jpegquality">Chất lượng JPEG</string>
+    <string name="pref_title_legalinfo">Thông tin pháp lý</string>
+    <string name="pref_title_manualfocuszoom">Thu phóng bằng tay</string>
+    <string name="pref_title_maxduration">Thời gian tối đa</string>
+    <string name="pref_title_photo_file_prefix">Tiền tố tên tập tin</string>
+    <string name="pref_title_photoratio">Tỷ lệ</string>
+    <string name="pref_title_photosize">Kích thước</string>
+    <string name="pref_title_photosize_back">Camera sau</string>
+    <string name="pref_title_photosize_front">Camera trước</string>
+    <string name="pref_title_privacy">Chính sách riêng tư</string>
+    <string name="pref_title_purchases">Mua hàng</string>
+    <string name="pref_title_rendervideosizes">Đặt lại kích thước video</string>
+    <string name="pref_title_show_histogram">Hiển thị biểu đồ</string>
+    <string name="pref_title_shuttersounds">Âm thanh màn trập</string>
+    <string name="pref_title_stabilization">Ổn định</string>
+    <string name="pref_title_storage_photo">Nơi lưu trữ</string>
+    <string name="pref_title_storage_video">Nơi lưu trữ</string>
+    <string name="pref_title_support">Ý kiến phản hồi và Hỗ trợ</string>
+    <string name="pref_title_use_high_speed">Sử dụng phiên chạy tốc độ cao khi cần thiết</string>
+    <string name="pref_title_use_high_speed_desc">Khi chuyển động chậm được kích hoạt, một phiên chạy tốc độ cao được sử dụng để đạt được tốc độ fps tối đa. Tốc độ cao sẽ ghi đè kích thước đã chọn và tắt các điều khiển bằng tay.</string>
+    <string name="pref_title_video_file_prefix">Tiền tố tên tập tin</string>
+    <string name="pref_title_video_quality">Chất lượng video</string>
+    <string name="pref_title_videosize_back">Camera sau</string>
+    <string name="pref_title_videosize_front">Camera trước</string>
+    <string name="pref_title_volumekey">Phím âm lượng</string>
+    <string name="pref_title_website">Trang web</string>
+    <string name="processing_image_error">Lỗi xử lý hình ảnh</string>
+    <string name="purchase_btn">Mua hàng</string>
+    <string name="purchase_donate_btn">Mua &amp; tặng</string>
+    <string name="purchase_error_msg">"Đã có một vấn đề trong quá trình mua.
+Hãy thử lại sau"</string>
+    <string name="purchase_sku_description">Mua gói Premium bây giờ để có được</string>
+    <string name="purchase_sku_description_purchased">Bạn đã mua gói Premium</string>
+    <string name="purchase_sku_details">"
+ • khoảng thời gian Burst dưới 500ms
+ • tối đa hơn 20 bức ảnh trong burst
+ • Chất lượng JPEG tốt hơn
+ • Chống ăn mòn ở 50 Hz và 60Hz
+ • Video tối đa thời gian thực hiện trên 5 phút
+ • Ảnh biểu đồ
+ • độ phân giải cao Animated GIF"</string>
+    <string name="purchase_success_msg">Cám ơn bạn đã mua hàng!</string>
+    <string name="purchase_warning_message">"Gói máy ảnh Footej Premium là cần thiết để sử dụng tính năng này.
+
+"</string>
+    <string name="purchases">Mua hàng</string>
+    <string name="rate_later">Để sau</string>
+    <string name="rate_message">"Thưởng thức máy ảnh Footej? 
+Hãy đưa ra ý kiến ​​của bạn!"</string>
+    <string name="rate_no">Không, Cảm ơn</string>
+    <string name="rate_ok">Đánh giá</string>
+    <string name="rate_title">Đánh giá Footej trên Ch Play!</string>
+    <string name="rendering_hdr">Hiển thị hình ảnh HDR</string>
+    <string name="report">Báo cáo</string>
+    <string name="resolution">Độ phân giải</string>
+    <string name="restart">Khởi động lại</string>
+    <string name="sGeneralRecordingError">Một lỗi không thể khôi phục xảy ra! Xin vui lòng khởi động lại ứng dụng</string>
+    <string name="sOutOfMemoryRecordingError">Thiết bị chạy ra khỏi bộ nhớ! Xin vui lòng khởi động lại ứng dụng</string>
+    <string name="sPauseRecordingError">Tạm dừng ghi âm thất bại!</string>
+    <string name="sPrepareRecordingError">Không thể chuẩn bị hồ sơ ghi âm!</string>
+    <string name="sResumeRecordingError">Tiếp tục ghi âm thất bại!</string>
+    <string name="sSDCardWriteError">Không thể bắt đầu ghi âm, có lẽ không thể gắn thẻ SD</string>
+    <string name="sStartRecordingError">Máy ảnh không thể bắt đầu ghi âm!</string>
+    <string name="sStopRecordingError">Dừng ghi âm thất bại!</string>
+    <string name="saved_dng_path">Lưu DNG đường dẫn:</string>
+    <string name="sdcard_storage">Thẻ nhớ SD</string>
+    <string name="search_menu_title">Tìm kiếm</string>
+    <string name="section_format">Xin chào thế giới từ phần: %1$d</string>
+    <string name="settings">Cài đặt</string>
+    <string name="shortcut_disabled_gallery">Thư viện ảnh</string>
+    <string name="shortcut_disabled_selfie">Tự sướng</string>
+    <string name="shortcut_disabled_video">Máy quay video</string>
+    <string name="shortcut_long_label_gallery">Hiển thị bộ sưu tập</string>
+    <string name="shortcut_long_label_selfie">Chụp một ảnh tự sướng</string>
+    <string name="shortcut_long_label_video">Quay một video</string>
+    <string name="shortcut_short_label_gallery">Thư viện ảnh</string>
+    <string name="shortcut_short_label_selfie">Tự sướng</string>
+    <string name="shortcut_short_label_video">Video</string>
+    <string name="shutter_speed_option">Tùy chọn tốc độ màn trập</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="support_intent_msg">Gửi email…</string>
+    <string name="support_title">Tôi muốn…</string>
+    <string name="title_activity_purchase">Mua hàng</string>
+    <string name="title_activity_settings">Cài đặt</string>
+    <string name="title_sd_instructions">Quyền truy cập ghi vào bên ngoài SD</string>
+    <string name="video_camera">Video camera</string>
+    <string name="yes">Có</string>
+</resources>

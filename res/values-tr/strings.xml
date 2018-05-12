@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ana ekrana git</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="abc_action_mode_done">Bitti</string>
+    <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_capital_off">KAPAT</string>
+    <string name="abc_capital_on">AÇ</string>
+    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_query">Arama sorgusu</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="action_crop_image">Ürün 1:1</string>
+    <string name="action_edit_intent_error">Bu medya düzenlemek için kullanılabilir uygulama değil</string>
+    <string name="action_gallery_burst_extract">Çýkar</string>
+    <string name="action_gallery_create">Hikaye yarat</string>
+    <string name="action_gallery_create_gif">GIF Yarat</string>
+    <string name="action_gallery_delete">Sil</string>
+    <string name="action_gallery_edit">Düzenle</string>
+    <string name="action_gallery_info">Bilgi</string>
+    <string name="action_gallery_share">Paylaþ</string>
+    <string name="action_initial_scan">Kütüphaneyi yeniden tara</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="action_slider_show_gallery">Galeri</string>
+    <string name="app_name">Footej Kamera</string>
+    <string name="backCameraNotFound">Arka kamera bulunmadý</string>
+    <string name="back_camera">Arka Kamera</string>
+    <string name="burst_count_photos">%d Fotoðraflar</string>
+    <string name="burst_group_photos">Sýralý Grup</string>
+    <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin.</string>
+    <string name="compensation_option">Telafi Seçeneði</string>
+    <string name="compose_panorama">Panorama işleme</string>
+    <string name="countdown_option_caption">Geri Sayým</string>
+    <string name="criticalError">Kritik Hata Oluþtu! Verdiðimiz rahatsýzlýktan dolayý özür dileriz. Bunu araþtýrmak için bize bir sorun raporu gönderin.</string>
+    <string name="criticalErrorRestart">Kamera servisiyle ilgili bir sorun var, sorun devam ederse lütfen cihazınızı yeniden başlatmayı deneyin.</string>
+    <string name="date_today">Bugün</string>
+    <string name="date_yesterday">Dün</string>
+    <string name="device_storage">Cihaz</string>
+    <string name="donations">Bizi destekleyen tutacak</string>
+    <string name="enable_gps">"GPS'i etkinleþtirmek ister misiniz?"</string>
+    <string name="error_delete_file">Dosya silinemedi: %s</string>
+    <string name="error_loading_thumb">Bu dosya için medya bilgisi yüklenemedi</string>
+    <string name="error_loading_thumb_image">Bu dosya için görsel yüklenemedi</string>
+    <string name="exposure_rs_pnl">pozlama</string>
+    <string name="filechoose_cancel">Ýptal</string>
+    <string name="filechoose_reset">Yeniden baþlat</string>
+    <string name="filechoose_select">Seç</string>
+    <string name="filechooser_title">%s depolama birimi seç</string>
+    <string name="fingerprint_cat_app_background">App arka plan</string>
+    <string name="fingerprint_cat_app_foreground">App ön plan</string>
+    <string name="fingerprint_service_description">"Açık olduğunda, parmak izi hareketleri (kuvvetli darbe yukarı/aşağı/sol/sağ) önceden tanımlanmış eylemler içinde belgili tanımlık app kolayca temel işlemleri gerçekleştirmek için atadığınız. Belgili tanımlık app arka planda kullanılabilir eylemler vardır: 
+ • açık fotoğraf camera
+ • Open Video camera
+ • açık açık fotoğraf camera
+ Ȃ2 Open Gallery
+When app ön planda olduğunuz mevcut eylemler olduğunu vardır: 
+ • çekim button
+ • gösterir filmstrip
+ • değişiklik fotoğraf/Video mode
+ • değişiklik arka/ön camera
+ • gezinti içinde film şeridi"</string>
+    <string name="fingerprint_service_summary">Parmak İzi Hareketleri</string>
+    <string name="focus_rs_pnl">mesafe</string>
+    <string name="frontCameraNotFound">Öne bakan kamera bulunmadý</string>
+    <string name="front_camera">Ön Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="gallery_confirm_delete_image_msg">Bu öðeyi silmek istediðinizden emin misiniz?</string>
+    <string name="gallery_confirm_delete_msg">%d silmek istediðinize emin misiniz?</string>
+    <string name="gallery_confirm_export_image_msg">Bu görüntüyü vermek istediðinize emin misiniz?</string>
+    <string name="gallery_confirm_negative_btn">Ýptal</string>
+    <string name="gallery_confirm_positive_btn">Tamam</string>
+    <string name="gallery_confirm_title">Onayla</string>
+    <string name="gallery_crop_message">Resmi Kırp</string>
+    <string name="gallery_delete_msg">%d silindi</string>
+    <string name="gallery_extract_error">%s sýralý görüntüyü çýkarýrken hata</string>
+    <string name="gallery_extract_msg">Sýralý görüntü %s çýkarýldý</string>
+    <string name="gallery_gif_limit_msg">Lütfen en az 2 fotoğrafları seçin</string>
+    <string name="gallery_gif_message">GIF yapýlýyor</string>
+    <string name="gallery_share_msg">Medyayý paylaþ..</string>
+    <string name="gallery_slider_delete_msg">%s silindi</string>
+    <string name="gallery_slider_deleted_msg">Sil</string>
+    <string name="gallery_undo_delete">Geri al</string>
+    <string name="location_manager">Konum Yöneticisi</string>
+    <string name="manual_focus_option">Elle Odak Seçeneði</string>
+    <string name="manualfocuszoom_toast">Manuel odaklama zum etkin</string>
+    <string name="media_info_duration">Süre : %s</string>
+    <string name="media_info_image_title">Görüntü bilgisi</string>
+    <string name="media_info_video_title">Video bilgisi</string>
+    <string name="miscellaneous">Çeþitli</string>
+    <string name="msg_permissions_sd">Ýzinler doðrulanamadý. Lütfen tekrar deneyin</string>
+    <string name="msg_sd_instructions">Yazma eriþim izni için harici SD kök dizinini seçiniz.</string>
+    <string name="no">Hayýr</string>
+    <string name="no_media_found">Galeri boþ</string>
+    <string name="notification_channel_description">Görüntü işleme hizmeti ile ilgili bildirimleri</string>
+    <string name="notification_channel_name">Footej işleme hizmet bildirimleri</string>
+    <string name="permission_dialog_message">"Uygulama düzgün bir þekilde çalýþmýyorsa: 
+Þu izinleri 
+
+%s kontrol edin cihaz ayarlarýndan doðrulayýn ve uygulamayý yeniden baþlatýn"</string>
+    <string name="permission_dialog_title">Gerekli izinler</string>
+    <string name="photography_camera">Fotoðraf Kamera</string>
+    <string name="pref_description_brightness">Kamera önizlemesinde maksimum ekran parlaklýðýna zorla</string>
+    <string name="pref_description_default_gallery">Sistem Galeri uygulama yerine iç kullanın</string>
+    <string name="pref_description_geolocation">Video ve fotoðraf üzerinden coðrafi konumu kaydet</string>
+    <string name="pref_description_gesture_enable">Erişilebilirlik hizmetini etkinleştirme</string>
+    <string name="pref_description_gesture_filmstrip_enable">Film şeridi içinde gezinti etkinleştir</string>
+    <string name="pref_description_manualfocuszoom">Konuyu bir yakın çekim için Önizleme Yakınlaştırılmış</string>
+    <string name="pref_description_shuttersounds">Shutter sesleri etkin veya pasif</string>
+    <string name="pref_description_stabilization">Bu destekleniyorsa dengelemeyi saðlar</string>
+    <string name="pref_header_about">Hakkýnda</string>
+    <string name="pref_header_general">Genel</string>
+    <string name="pref_header_photo">Foto</string>
+    <string name="pref_header_video">Video</string>
+    <string name="pref_licences">Açýk kaynak lisanslar?</string>
+    <string name="pref_purchase_donate_1">Bir takipçisi olmak</string>
+    <string name="pref_purchase_donate_2">Geliştirici destek</string>
+    <string name="pref_purchase_donate_3">Footej meraklısı</string>
+    <string name="pref_purchase_donate_title">Satın alma &amp; bağış</string>
+    <string name="pref_summary_purchases">yok</string>
+    <string name="pref_summary_support">Geri bildirim gönder, destek al veya sorun rapor et</string>
+    <string name="pref_title_antibanding">Antibanding</string>
+    <string name="pref_title_audiosrc">Ses Kaynağı</string>
+    <string name="pref_title_brightness">Maks. parlaklýðý zorla</string>
+    <string name="pref_title_burst">Sýralý mod</string>
+    <string name="pref_title_burstmodeinterval">Minimum aralýk</string>
+    <string name="pref_title_burstmodemaximages">Maksimum sýralý</string>
+    <string name="pref_title_default_gallery">Kullanım varsayılan Galeri uygulama</string>
+    <string name="pref_title_fingerprint_swipe_down">Aşağı kaydır</string>
+    <string name="pref_title_fingerprint_swipe_left">Sola kaydır</string>
+    <string name="pref_title_fingerprint_swipe_right">Sağ kaydır</string>
+    <string name="pref_title_fingerprint_swipe_up">Yukarı kaydır</string>
+    <string name="pref_title_flip_photos_front_camera">Ön kameradan flip fotoðraflar</string>
+    <string name="pref_title_focus_priority">Fotoðraf çekmeden önce odaklama öncelikli</string>
+    <string name="pref_title_geolocation">Konumu kaydet</string>
+    <string name="pref_title_gestures_enable">Etkinleştir</string>
+    <string name="pref_title_gestures_filmstrip_enable">Film şeridi gezinti</string>
+    <string name="pref_title_gif_quality">GIF Kalitesi</string>
+    <string name="pref_title_infocommunity">Google+ topluluðu</string>
+    <string name="pref_title_infofbpage">Facebook sayfasý</string>
+    <string name="pref_title_jpegquality">JPEG kalitesi</string>
+    <string name="pref_title_legalinfo">Yasal bilgi</string>
+    <string name="pref_title_manualfocuszoom">Manuel odaklama yakınlaştırma</string>
+    <string name="pref_title_maxduration">Maks süre</string>
+    <string name="pref_title_photo_file_prefix">Dosya adı öneki</string>
+    <string name="pref_title_photoratio">Oran</string>
+    <string name="pref_title_photosize">Boyut</string>
+    <string name="pref_title_photosize_back">Arka kamera</string>
+    <string name="pref_title_photosize_front">Ön kamera</string>
+    <string name="pref_title_privacy">Gizlilik politikası</string>
+    <string name="pref_title_purchases">Satýn alýmlar</string>
+    <string name="pref_title_rendervideosizes">Video boyutu</string>
+    <string name="pref_title_show_histogram">Histogramý göster</string>
+    <string name="pref_title_shuttersounds">Shutter Sesleri</string>
+    <string name="pref_title_stabilization">Dengeleme</string>
+    <string name="pref_title_storage_photo">Depolama konumu</string>
+    <string name="pref_title_storage_video">Depolama konumu</string>
+    <string name="pref_title_support">Geri bildirim &amp; Destek</string>
+    <string name="pref_title_use_high_speed">Gerektiğinde yüksek hızlı oturum kullanın</string>
+    <string name="pref_title_use_high_speed_desc">Yavaş hareket etkinleştirildiğinde, maksimum fps elde etmek için yüksek hızlı bir oturum kullanılır. Yüksek hızlı oturum seçilen kayıt boyutunu geçersiz kılar ve manuel kontrolleri devre dışı bırakır.</string>
+    <string name="pref_title_video_file_prefix">Dosya adı öneki</string>
+    <string name="pref_title_video_quality">Video kalitesi</string>
+    <string name="pref_title_videosize_back">Arka kamera</string>
+    <string name="pref_title_videosize_front">Ön kamera</string>
+    <string name="pref_title_volumekey">Ses tuþlarý</string>
+    <string name="pref_title_website">Website</string>
+    <string name="processing_image_error">Hata işleme görüntü</string>
+    <string name="purchase_btn">Satýn al</string>
+    <string name="purchase_donate_btn">Satın alma &amp; bağış</string>
+    <string name="purchase_error_msg">"Satýn alým sýrasýnda bir sorun oldu.
+Lütfen daha sonra tekrar deneyiniz"</string>
+    <string name="purchase_sku_description">Þimdi Premium paket satýn al</string>
+    <string name="purchase_sku_description_purchased">Zaten Premium paketi satýn almýþsýnýz</string>
+    <string name="purchase_sku_details">"
+ • Sýralý süre aralýðý 500ms
+ • Sýralýda 20'den fazla görüntü
+ • En Ýyi JPEG Kalitesi
+ • Antibanding in 50Hz and 60Hz
+ • Video maks süresi 5 dk üzerinde
+ • Görüntü histogram
+ • Yüksek çözünürlüklü GIF"</string>
+    <string name="purchase_success_msg">Satýn aldýðýnýz için teþekkür ederiz!</string>
+    <string name="purchase_warning_message">"Bu özelliði kullanabilmek için Footej Kamera Premium paketine ihtiyaç var.
+
+"</string>
+    <string name="purchases">Satýn alýmlar</string>
+    <string name="rate_later">Sonra</string>
+    <string name="rate_message">"Footej Kamera'yý sevdiniz mi?"</string>
+    <string name="rate_no">Hayýr, teþekkürler</string>
+    <string name="rate_ok">Oyla</string>
+    <string name="rate_title">"Footej'i Play Store'da Oyla!"</string>
+    <string name="rendering_hdr">Rendering HDR görüntü</string>
+    <string name="report">Rapor</string>
+    <string name="resolution">Çözünürlük</string>
+    <string name="restart">Yeniden baþlat</string>
+    <string name="sGeneralRecordingError">Kurtarılamaz bir hata oluştu! Lütfen app yeniden başlatın</string>
+    <string name="sOutOfMemoryRecordingError">Yetersiz bellek aygıt! Lütfen app yeniden başlatın</string>
+    <string name="sPauseRecordingError">Kaydý duraklat baþarýsýz!</string>
+    <string name="sPrepareRecordingError">Kayýt dosyasý hazýrlanamadý!</string>
+    <string name="sResumeRecordingError">Kaydý devam ettirme baþarýsýz!</string>
+    <string name="sSDCardWriteError">Kayýt baþlatýlamýyor, muhtemelen SD kart düzenlenemiyor</string>
+    <string name="sStartRecordingError">Kamera, kaydý baþlatamadý!</string>
+    <string name="sStopRecordingError">Kaydý durdur baþarýsýz!</string>
+    <string name="saved_dng_path">Kayýtlý DNG yolu:</string>
+    <string name="sdcard_storage">SD Kart</string>
+    <string name="search_menu_title">Ara</string>
+    <string name="section_format">%1$d bölümünden Merhaba Dünya</string>
+    <string name="settings">Ayarlar</string>
+    <string name="shortcut_disabled_gallery">Galeri</string>
+    <string name="shortcut_disabled_selfie">Selfie</string>
+    <string name="shortcut_disabled_video">Video Kamera</string>
+    <string name="shortcut_long_label_gallery">Yeni galeri</string>
+    <string name="shortcut_long_label_selfie">Selfie çek</string>
+    <string name="shortcut_long_label_video">Tomar video</string>
+    <string name="shortcut_short_label_gallery">Galeri</string>
+    <string name="shortcut_short_label_selfie">Selfie</string>
+    <string name="shortcut_short_label_video">Video</string>
+    <string name="shutter_speed_option">Shutter Hýz Seçeneði</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="support_intent_msg">e-mail gönder…</string>
+    <string name="support_title">Ýstediðim…</string>
+    <string name="title_activity_purchase">Satýn alýmlar</string>
+    <string name="title_activity_settings">Ayarlar</string>
+    <string name="title_sd_instructions">Harici SD yazma eriþimi</string>
+    <string name="video_camera">Video Kamera</string>
+    <string name="yes">Evet</string>
+</resources>
