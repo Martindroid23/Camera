@@ -309,4 +309,5 @@ Mutasd meg mennyire!"</string>
     <string name="pref_camera_gesture_title">Gesztusok</string>
 	<string name="double_tap">Dupla érintés</string>
 	<string name="dark_theme">Sötét Téma</string>
+	<string name="appsources">Alkalmazás forráskódját</string>
 </resources>

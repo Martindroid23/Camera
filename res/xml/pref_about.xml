@@ -26,6 +26,9 @@
             <intent android:action="android.intent.action.VIEW" android:data="https://creativecommons.org/licenses/by/4.0/legalcode" />
         </Preference>
         <Preference android:layout="@layout/preference_with_margin" android:title="@string/pref_title_deviceyear" android:key="deviceyear" />
+        <Preference android:layout="@layout/preference_with_margin" android:title="@string/appsources" android:key="appsources">
+            <intent android:action="android.intent.action.VIEW" android:data="https://github.com/Martindroid23/Camera" />
+        </Preference>   
     </PreferenceScreen>
     <Preference android:icon="@drawable/gavel" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_legalinfo" android:key="legal" />
     <Preference android:icon="@drawable/folder_lock" android:layout="@layout/preference_with_margin" android:title="@string/pref_title_privacy">
