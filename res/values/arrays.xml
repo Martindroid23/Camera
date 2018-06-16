@@ -187,14 +187,4 @@
         <item>2</item>
         <item>0</item>		
     </string-array>
-	<string-array name="pref_doubletap_titles">
-	    <item>Zoom</item>
-		<item>Kameraváltás</item>
-		<item>Nincs</item>
-	</string-array>
-    <string-array name="pref_doubletap_values">
-	    <item>1</item>
-		<item>2</item>
-		<item>0</item>
-	</string-array>
 </resources>
