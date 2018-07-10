@@ -14,5 +14,5 @@ New features:
 - Pixel blue shortcut icons(Android 7.0+)
 - Added icons to settings menu
 
-And more comming soon...
+This camera is not supported anymore!
 
